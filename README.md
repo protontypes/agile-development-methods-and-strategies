@@ -22,7 +22,7 @@ Development Mindsets, Processes and Methods in Robotics
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
 
-### Agile Manifesto -  
+### Agile Manifesto  
 
 `Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming, and others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened` (2001)
 
@@ -35,7 +35,7 @@ Development Mindsets, Processes and Methods in Robotics
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-The complete [agile manifesto](https://agilemanifesto.org/principles.html)
+The complete [Agile Manifesto](https://agilemanifesto.org/principles.html)
 
 ## Methods
 * Waterfall
