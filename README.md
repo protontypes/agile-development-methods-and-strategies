@@ -48,11 +48,7 @@ The complete [Agile Manifesto](https://agilemanifesto.org/principles.html)
 * SCRUM
 * DevOP
 
-## 
-
-
-Data-Driven Development
-
-Continuous Integration / 
-Triage
-Gitflow / Github Flow
+## Processes 
+* Continuous Integration / 
+* Triage
+* Gitflow / Github Flow
