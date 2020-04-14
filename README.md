@@ -5,7 +5,8 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 ## Mindsets and Experiences 
 ### Conway's law
-`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967)
+`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [1](https://en.wikipedia.org/wiki/Conway%27s_law)
+
 
 ### The Mythical Man-Month or Brooks's law
 
@@ -17,7 +18,7 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 * The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members
 
-[The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
 ### Unix Philosophy
 
@@ -29,7 +30,7 @@ The Unix philosophy favors composability as opposed to monolithic design:
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
 
-[Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+[3](https://en.wikipedia.org/wiki/Unix_philosophy)
 
 ### Agile Manifesto  
 
@@ -48,7 +49,7 @@ Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Develop
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-The complete [Agile Manifesto](https://agilemanifesto.org/principles.html)
+[4](https://agilemanifesto.org/principles.html)
 
 ### About reinventing the wheel
 
