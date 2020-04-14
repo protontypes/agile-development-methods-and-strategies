@@ -54,17 +54,18 @@ The complete [Agile Manifesto](https://agilemanifesto.org/principles.html)
 
 ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main killers for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007)
 
-![](img/reinvent_the_wheel.jpg){:height="50%" width="50%"}
+<img src="img/reinvent_the_wheel.jpg" width="100" height="100">
 
 
 ## Methods
 ### Waterfall
 The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks
 
-![](img/Waterfall_model_.svg){:height="50%" width="50%"}
+<img src="img/Waterfall_model_.svg" width="100" height="100">
 
-## System Engineering and the V-Model
-![](Systems_Engineering_V_diagram.jpg
+### System Engineering and the V-Model
+<img src="Systems_Engineering_V_diagram.jpg" width="100" height="100">
+
 * Extreme Programming
 * Lean Development
 * SCRUM
