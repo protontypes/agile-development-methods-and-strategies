@@ -33,7 +33,7 @@ The Unix philosophy favors composability as opposed to monolithic design:
 
 ### Agile Manifesto  
 
-`Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming, and others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened` (2001)
+Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming, and others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened (2001)
 
 > We are uncovering better ways of developing                            
 > software by doing it and helping others do it.                      
