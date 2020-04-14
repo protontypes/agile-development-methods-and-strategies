@@ -74,9 +74,9 @@ SCRUM is a agile method for project management. It consists out of a process and
 
 <img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%">   
  
-Further agile methods:
-[Extreme Programming](http://www.extremeprogramming.org/) 
-[Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)
+Further agile methods:   
+[Extreme Programming](http://www.extremeprogramming.org/)                 
+[Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)                  
 
 ### Common Missunderstandins about Agile Development Methods
 
@@ -86,6 +86,10 @@ Further agile methods:
 * Agile means no process.
 * Agile is always better than classical project management.
 * Agile development can not be used within the V-Model.
+
+### Agile in a Nutshell
+
+<img src="img/key_aspacts.svg" height="50%" width="50%">  
 
 ## Release, Deploy and Version Control Processes 
 ### DevOP and Continuous Integration 
