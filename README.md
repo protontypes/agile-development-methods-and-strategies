@@ -16,10 +16,10 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 ## Mindsets and Experiences 
 
-### Conway's law
+### Conways law
 `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 
-### The Mythical Man-Month or Brooks's law
+### The Mythical Man-Month or Brooks law
 
 `Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
