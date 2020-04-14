@@ -15,12 +15,13 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [Release, Deploy and Version Control Processes](#Release,-Deploy-and-Version-Control-Processes) 
 
 ## Mindsets and Experiences 
-### Conway's law [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
-`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) 
 
-### The Mythical Man-Month or Brooks's law [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
+### Conway's law
+`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 
-`Adding manpower to a late software project makes it later.` (1975)
+### The Mythical Man-Month or Brooks's law
+
+`Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 ![the mythical man-month](img/mythical_man_month.png)
 
@@ -28,9 +29,10 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 * The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. 
 
-### Unix Philosophy [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
+### Unix Philosophy 
 
-Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978)
+Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
+
 
 The Unix philosophy favors composability as opposed to monolithic design:
 * Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features".
@@ -38,9 +40,9 @@ The Unix philosophy favors composability as opposed to monolithic design:
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.                         
 
-### Reinventing the wheel [[4](https://www.theconstructsim.com/history-ros/)]
+### Reinventing the wheel 
 
-ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007)
+ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007) [[4](https://www.theconstructsim.com/history-ros/)]
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
@@ -57,9 +59,9 @@ The waterfall model is a breakdown of project activities into linear sequential 
 * Useful for projects where changes cost a lot of resources and time 
 
 
-### System Engineering and the V-Model [[6](https://en.wikipedia.org/wiki/V-Model)]
+### System Engineering and the V-Model 
 
-The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development.
+The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[6](https://en.wikipedia.org/wiki/V-Model)]
 
 The V models ensures two major aspacts of your development with traceability:
 * Are you building it right? **Validation:** The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders. It often involves acceptance and suitability with external customers. Contrast with verification.
@@ -68,9 +70,9 @@ The V models ensures two major aspacts of your development with traceability:
 
 <img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
 
-### SCRUM and Agile Development [[7](https://agilemanifesto.org/principles.html)]
+### SCRUM and Agile Development 
 
-SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto:
+SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[7](https://agilemanifesto.org/principles.html)]:
 
 > Individuals and interactions over processes and tools                          
 > Working software over comprehensive documentation                              
