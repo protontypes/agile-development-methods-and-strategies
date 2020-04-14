@@ -13,7 +13,9 @@ Development Mindsets, Processes and Methods in Robotics
 
 ![the mythical man-month](img/mythical_man_month.png)
 
-The modern practices of continuous integration, test-driven development, and iterative development significantly reduce the inter-developer communication overhead, and thus allow for better scalability.
+* The modern practices of continuous integration, test-driven development, and iterative development significantly reduce the inter-developer communication overhead, and thus allow for better scalability.
+
+* The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members
 
 ### Unix Philosophy
 
