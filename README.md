@@ -3,6 +3,17 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 > No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as scrict guidelines.
 
+* [Mindsets and Experiences](#mindsets-and-experiences)
+  * [Conway's law](#conway's-law)
+  * [The Mythical Man-Month or Brooks's law](#the-mythical-man-Month-or-brooks's-law)
+  * [Unix Philosophy](#unix-philosophy)
+  * [Reinventing the wheel](#reinventing-the-wheel)
+ * [Methods](#methods)
+   * [Waterfall Model](#waterfall-model)
+   * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
+   * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
+   * [Release, Deploy and Version Control Processes](#Release,-Deploy-and-Version-Control-Processes) 
+
 ## Mindsets and Experiences 
 ### Conway's law [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) 
@@ -27,7 +38,7 @@ The Unix philosophy favors composability as opposed to monolithic design:
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.                         
 
-### About reinventing the wheel [[4](https://www.theconstructsim.com/history-ros/)]
+### Reinventing the wheel [[4](https://www.theconstructsim.com/history-ros/)]
 
 ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007)
 
