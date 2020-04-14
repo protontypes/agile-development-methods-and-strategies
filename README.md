@@ -74,7 +74,9 @@ SCRUM is a agile method for project management. It consists out of a process and
 
 <img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%">   
  
-[Extreme Programming](http://www.extremeprogramming.org/) and [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) famous agile development methods.
+Further agile methods:
+[Extreme Programming](http://www.extremeprogramming.org/) 
+[Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)
 
 ### Common Missunderstandins about Agile Development Methods
 
