@@ -85,12 +85,12 @@ SCRUM is a agile method for project management. It consists out of a process and
 * Agile is always better than classical project management.
 * Agile development can not be used within the V-Model.
 
-### DevOP
-
 ## Release, Deploy and Version Control Processes 
 ### DevOP and Continuous Integration 
-<img src="img/Devops-toolchain.svg" height="50%" width="50%">
-### Defect Triage
-### Gitflow 
+<img src="img/Devops-toolchain.svg" height="50%" width="50%">       
+
+### Defect Triage    
+
+### Gitflow    
 
 
