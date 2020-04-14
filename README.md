@@ -1,5 +1,5 @@
 # agile-robots
-A summery of mindsets, processes and methods in knowledge intense development processes like robotics. 
+A summery of mindsets, processes and methods in knowledge intense development processes like robotics. The document intention is to give a entry point to the ROS community for professional robotic development processes, mindsets and methods. 
 
 > No process, mindset and method will fit to your unique working enviroment and team without a common adaption.
 
