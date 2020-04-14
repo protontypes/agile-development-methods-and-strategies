@@ -37,6 +37,8 @@ Development Mindsets, Processes and Methods in Robotics
 
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
+The complete [agile manifesto](https://agilemanifesto.org/principles.html)
+
 ## Methods
 * Waterfall
 * V-Model
