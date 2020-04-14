@@ -8,6 +8,7 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [The Mythical Man-Month or Brooks law](#the-mythical-man-Month-or-brooks-law)
    * [Unix Philosophy](#unix-philosophy)
    * [Reinventing the wheel](#reinventing-the-wheel)
+   * [Key Aspacts In a Nutshell](#key-aspacts-in-a-nutshell)
  * [Methods](#methods)
    * [Waterfall Model](#waterfall-model)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
@@ -50,8 +51,8 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 <img src="img/key_aspacts.svg" height="50%" width="50%">
 
 ## Methods
-### Waterfall Model [[5](https://en.wikipedia.org/wiki/Waterfall_model)]
-The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks
+### Waterfall Model 
+The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks. [[5](https://en.wikipedia.org/wiki/Waterfall_model)]
 
 <img src="img/Waterfall_model_.svg" height="50%" width="50%" >
 
