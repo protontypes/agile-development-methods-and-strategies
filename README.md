@@ -13,6 +13,8 @@ Development Mindsets, Processes and Methods in Robotics
 
 ![the mythical man-month](img/mythical_man_month.png)
 
+The modern practices of continuous integration, test-driven development, and iterative development significantly reduce the inter-developer communication overhead, and thus allow for better scalability.
+
 ### Unix Philosophy
 
 `Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement` (1978)
