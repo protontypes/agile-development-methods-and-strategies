@@ -22,8 +22,11 @@ Development Mindsets, Processes and Methods in Robotics
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
 
-### Agile Manifesto (2001) - My personal favourites 
+### Agile Manifesto -  
 
+`Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming, and others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened` (2001)
+
+**My personal favourites:**
 * Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 * Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 * Working software is the primary measure of progress.
