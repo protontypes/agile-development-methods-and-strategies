@@ -21,7 +21,21 @@ Development Mindsets, Processes and Methods in Robotics
 
 ![the mythical man-month](img/mythical_man_month.png)
 
-### Agile Manifesto
+### Agile Manifesto - My personal favourites 
+
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+
+5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+
+7. Working software is the primary measure of progress.
+
+8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+10. Simplicity--the art of maximizing the amount of work not done--is essential.
+
+11. The best architectures, requirements, and designs emerge from self-organizing teams.
+
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 ## Methods
 * Waterfall
