@@ -40,6 +40,13 @@ Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Develop
 > Customer collaboration over contract negotiation                            
 > Responding to change over following a plan.                                      
 
+### Reinventing the wheel
+
+ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main killers for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007)
+
+
+
+
 **My personal favourites of the 12 principles:**
 
 * Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
