@@ -61,7 +61,11 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 ### Waterfall
 The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks
 
-* V-Model
+![](Waterfall_model_.svg)
+
+# V-Model
+
+![](
 * Extreme Programming
 * Lean Development
 * SCRUM
