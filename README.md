@@ -13,7 +13,7 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [Waterfall Model](#waterfall-model)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
    * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
-   * [Release, Deploy and Version Control Processes](#Release,-Deploy-and-Version-Control-Processes) 
+   * [Release, Deploy and Version Control Processes](#Release-Deploy-and-Version-Control-Processes) 
 
 ## Mindsets and Experiences 
 
