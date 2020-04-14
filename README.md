@@ -17,14 +17,19 @@ Development Mindsets, Processes and Methods in Robotics
 
 * The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members
 
+[The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+
 ### Unix Philosophy
 
 `Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement` (1978)
 
+The Unix philosophy favors composability as opposed to monolithic design:
 * Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features".
 * Expect the output of every program to become the input to another, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input.
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
+
+[Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
 ### Agile Manifesto  
 
