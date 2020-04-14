@@ -4,15 +4,15 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 > No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as scrict guidelines.
 
 * [Mindsets and Experiences](#mindsets-and-experiences)
-   * [Conway's law](#conway-s-law)
-   * [The Mythical Man-Month or Brooks's law](#the-mythical-man-Month-or-brooks-s-law)
+   * [Conways law](#conway-s-law)
+   * [The Mythical Man-Month or Brookss law](#the-mythical-man-Month-or-brooks-s-law)
    * [Unix Philosophy](#unix-philosophy)
    * [Reinventing the wheel](#reinventing-the-wheel)
  * [Methods](#methods)
    * [Waterfall Model](#waterfall-model)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
    * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
-   * [Release, Deploy and Version Control Processes](#Release-Deploy-and-Version-Control-Processes) 
+   * [Release, Deploy and Version Control Processes](#Release,-Deploy-and-Version-Control-Processes) 
 
 ## Mindsets and Experiences 
 
