@@ -87,7 +87,7 @@ SCRUM is a agile method for project management. It consists out of a process and
 
 ### DevOP
 
-[](img/Devops-toolchain.svg)
+![](img/Devops-toolchain.svg)
 
 ## Release and Version Control Processes 
 * Continuous Integration 
