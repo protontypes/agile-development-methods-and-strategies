@@ -60,28 +60,16 @@ The V models ensures two major aspacts of your development with traceability:
 
 <img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
 
-### Extreme Programming
-
-<img src="img/Extreme_Programming.svg.png" height="50%" width="50%">
-
-### Lean Software Development
-
-* Eliminate waste
-* Amplify learning
-* Decide as late as possible
-* Deliver as fast as possible
-* Empower the team
-* Build integrity in
-* Optimize the whole
-
 ### SCRUM and Agile Development
+
+SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[4](https://agilemanifesto.org/principles.html)]:
 
 > Individuals and interactions over processes and tools                          
 > Working software over comprehensive documentation                              
 > Customer collaboration over contract negotiation                            
 > Responding to change over following a plan.                                      
 
-**My personal favourites of the 12 principles:**
+**My personal favourites of the 12 principles of the manifesto:**
 
 * Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 * Working software is the primary measure of progress.
@@ -89,18 +77,24 @@ The V models ensures two major aspacts of your development with traceability:
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-[[4](https://agilemanifesto.org/principles.html)]
+[](File_ScrumSchwaberBeedle.svg)
+ 
+[Extreme Programming](http://www.extremeprogramming.org/) and [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) famous agile development methods.
 
-* DevOP
+### Common Missunderstandins about Agile Development Methods
+Agile means less planning.
+Agile allows rapid changes without any costs.
+Agile means no requirements
+Agile means less structure
+Agile is always better than classical project management.
+Agile Development can not be used in the V-Model
+
+
+### DevOP
 
 ## Release and Version Control Processes 
 * Continuous Integration 
 * Triage
 * Gitflow / Github Flow
 
-## Common Missunderstandins about `Agile`
-* Agile means less planning.
-* Agile allows rapid changes without any costs.
-* Agile means no requirements
-* Agile means less structure
-* Agile is always better than classical project management. 
+
