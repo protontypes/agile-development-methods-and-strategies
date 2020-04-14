@@ -33,6 +33,8 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
+### In a Nutshell
+<img src="img/key_aspacts.svg" height="50%" width="50%">
 
 ## Methods
 ### Waterfall Model [[5](https://en.wikipedia.org/wiki/Waterfall_model)]
@@ -85,11 +87,7 @@ Further agile methods:
 * Agile means no requirements.
 * Agile means no process.
 * Agile is always better than classical project management.
-* Agile development can not be used within the V-Model.
-
-### Agile in a Nutshell
-
-<img src="img/key_aspacts.svg" height="50%" width="50%">  
+* Agile development can not be used within the V-Model.  
 
 ## Release, Deploy and Version Control Processes 
 ### DevOP and Continuous Integration 
