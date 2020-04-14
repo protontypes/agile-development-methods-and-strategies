@@ -15,9 +15,11 @@ Development Mindsets, Processes and Methods in Robotics
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
 
-### The Mythical Man-Month aka Brooks's law
+### The Mythical Man-Month or Brooks's law
 
 > Adding manpower to a late software project makes it later
+
+![the mythical man-month](img/mythical_man_month.png)
 
 ### Agile Manifesto
 
