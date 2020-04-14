@@ -35,14 +35,14 @@ The Unix philosophy favors composability as opposed to monolithic design:
 
 `Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming, and others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened` (2001)
 
-> We are uncovering better ways of developing
-> software by doing it and helping others do it.
-> Through this work we have come to value:
+> We are uncovering better ways of developing                            
+> software by doing it and helping others do it.                      
+> Through this work we have come to value:                                         
 
-> Individuals and interactions over processes and tools
-> Working software over comprehensive documentation
-> Customer collaboration over contract negotiation
-> Responding to change over following a plan.
+> Individuals and interactions over processes and tools                          
+> Working software over comprehensive documentation                              
+> Customer collaboration over contract negotiation                            
+> Responding to change over following a plan.                                      
 
 **My personal favourites of the 12 principles:**
 * Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
