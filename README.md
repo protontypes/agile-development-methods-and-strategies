@@ -78,7 +78,8 @@ The V models ensures two major aspacts of your development with traceability:
 
 <img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
 
-* Extreme Programming
+### Extreme Programming
+
 * Lean Software Development
 * SCRUM
 * DevOP
