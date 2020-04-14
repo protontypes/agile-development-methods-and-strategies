@@ -5,7 +5,8 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 ## Mindsets and Experiences 
 ### Conway's law
-`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967)
+`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
+
 
 ### The Mythical Man-Month or Brooks's law
 
@@ -17,7 +18,7 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 * The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members
 
-[The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+[[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 ### Unix Philosophy
 
@@ -29,30 +30,11 @@ The Unix philosophy favors composability as opposed to monolithic design:
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
 
-[Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
-
-### Agile Manifesto  
-
-Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming, and others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened. (2001)
-                                    
-> Individuals and interactions over processes and tools                          
-> Working software over comprehensive documentation                              
-> Customer collaboration over contract negotiation                            
-> Responding to change over following a plan.                                      
-
-**My personal favourites of the 12 principles:**
-
-* Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-* Working software is the primary measure of progress.
-* Simplicity, the art of maximizing the amount of work not done, is essential.
-* The best architectures, requirements, and designs emerge from self-organizing teams.
-* At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
-
-The complete [Agile Manifesto](https://agilemanifesto.org/principles.html)
+[[3](https://en.wikipedia.org/wiki/Unix_philosophy)]                         
 
 ### About reinventing the wheel
 
-ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main killers for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007)
+ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007)
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
@@ -80,8 +62,35 @@ The V models ensures two major aspacts of your development with traceability:
 
 ### Extreme Programming
 
-* Lean Software Development
-* SCRUM
+<img src="img/Extreme_Programming.svg.png" height="50%" width="50%">
+
+### Lean Software Development
+
+* Eliminate waste
+* Amplify learning
+* Decide as late as possible
+* Deliver as fast as possible
+* Empower the team
+* Build integrity in
+* Optimize the whole
+
+### SCRUM and Agile Development
+
+> Individuals and interactions over processes and tools                          
+> Working software over comprehensive documentation                              
+> Customer collaboration over contract negotiation                            
+> Responding to change over following a plan.                                      
+
+**My personal favourites of the 12 principles:**
+
+* Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+* Working software is the primary measure of progress.
+* Simplicity, the art of maximizing the amount of work not done, is essential.
+* The best architectures, requirements, and designs emerge from self-organizing teams.
+* At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+[[4](https://agilemanifesto.org/principles.html)]
+
 * DevOP
 
 ## Release and Version Control Processes 
