@@ -63,14 +63,23 @@ The waterfall model is a breakdown of project activities into linear sequential 
 
 <img src="img/Waterfall_model_.svg" height="50%" width="50%" >
 
-Pros:
-* 
+* Scales great if customer, management and developers have a lot experinces with the product.
+* Useful for projects where changes cost a lot of resources and time 
+
 
 ### System Engineering and the V-Model
-<img src="Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
+
+The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development.
+
+The V models ensures two major aspacts of your development:
+* Are you building it right? **Validation:** The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders. It often involves acceptance and suitability with external customers. Contrast with verification.
+
+* Are you building the right thing? **Verification:**  The evaluation of whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition. It is often an internal process. Contrast with validation.
+
+<img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
 
 * Extreme Programming
-* Lean Development
+* Lean Software Development
 * SCRUM
 * DevOP
 
