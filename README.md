@@ -5,15 +5,16 @@ Development Mindsets, Processes and Methods in Robotics
 
 ## Mindsets and Experiences 
 ### Conway's law
-> Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. (1967)
+`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967)
 
 ### The Mythical Man-Month or Brooks's law
 
-> Adding manpower to a late software project makes it later (1975)
+`Adding manpower to a late software project makes it later.` (1975)
 
 ![the mythical man-month](img/mythical_man_month.png)
 
 ### Unix Philosophy
+
 `Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement` (1978)
 
 * Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features".
@@ -21,20 +22,14 @@ Development Mindsets, Processes and Methods in Robotics
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
 
-### Agile Manifesto - My personal favourites 
+### Agile Manifesto (2001) - My personal favourites 
 
 * Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
-
 * Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-
 * Working software is the primary measure of progress.
-
 * Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-
 * Simplicity--the art of maximizing the amount of work not done--is essential.
-
 * The best architectures, requirements, and designs emerge from self-organizing teams.
-
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 The complete [agile manifesto](https://agilemanifesto.org/principles.html)
