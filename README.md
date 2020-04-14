@@ -1,5 +1,5 @@
 # agile-robots
-Development Mindsets, Processes and Methods in Robotics
+Mindsets, Processes and Methods in Robotics and Software Development Processes. 
 
 > No process, mindset and method will fit to your unique working enviroment and team without a common adaption.
 
