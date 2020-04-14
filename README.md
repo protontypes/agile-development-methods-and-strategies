@@ -64,7 +64,7 @@ SCRUM is a agile method for project management. It consists out of a process and
 > Customer collaboration over contract negotiation                            
 > Responding to change over following a plan.                                      
 
-**My personal favourites of the 12 principles of the manifesto:**
+**My personal favourites of the 12 agile principles:**
 
 * Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 * Working software is the primary measure of progress.
@@ -74,7 +74,9 @@ SCRUM is a agile method for project management. It consists out of a process and
 
 <img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%">   
  
-[Extreme Programming](http://www.extremeprogramming.org/) and [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) famous agile development methods.
+Further agile methods:
+[Extreme Programming](http://www.extremeprogramming.org/) 
+[Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)
 
 ### Common Missunderstandins about Agile Development Methods
 
