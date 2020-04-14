@@ -1,5 +1,5 @@
 # agile-robots
-A summery of mindsets, processes and methods in knowledge intense development processes like robotics. 
+A summery of mindsets, processes and methods in knowledge intense development processes like robotics. The document intention is to give a entry point to the ROS community for professional robotic development processes, mindsets and methods. 
 
 > No process, mindset and method will fit to your unique working enviroment and team without a common adaption.
 
@@ -72,24 +72,25 @@ SCRUM is a agile method for project management. It consists out of a process and
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-[](File_ScrumSchwaberBeedle.svg)
+<img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%">   
  
 [Extreme Programming](http://www.extremeprogramming.org/) and [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) famous agile development methods.
 
 ### Common Missunderstandins about Agile Development Methods
-Agile means less planning.
-Agile allows rapid changes without any costs.
-Agile means no requirements
-Agile means less structure
-Agile is always better than classical project management.
-Agile Development can not be used in the V-Model
 
+* Agile means less planning.
+* Agile allows rapid changes without any costs.
+* Agile means no requirements.
+* Agile means no process.
+* Agile is always better than classical project management.
+* Agile development can not be used within the V-Model.
 
-### DevOP
+## Release, Deploy and Version Control Processes 
+### DevOP and Continuous Integration 
+<img src="img/Devops-toolchain.svg" height="50%" width="50%">       
 
-## Release and Version Control Processes 
-* Continuous Integration 
-* Triage
-* Gitflow / Github Flow
+### Defect Triage    
+
+### Gitflow    
 
 
