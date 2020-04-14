@@ -4,7 +4,7 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 > No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as scrict guidelines.
 
 * [Mindsets and Experiences](#mindsets-and-experiences)
-   * [Conways law](#conways-law)
+   * [Conways's law](#conways-law)
    * [The Mythical Man-Month or Brooks law](#the-mythical-man-Month-or-brooks-law)
    * [Unix Philosophy](#unix-philosophy)
    * [Reinventing the wheel](#reinventing-the-wheel)
@@ -17,10 +17,10 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 ## Mindsets and Experiences 
 
-### Conways law
+### Conway's law
 `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 
-### The Mythical Man-Month or Brooks law
+### The Mythical Man-Month or Brook's law
 
 `Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
