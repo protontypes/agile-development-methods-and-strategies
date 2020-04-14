@@ -4,11 +4,11 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 > No process, mindset and method will fit to your unique working enviroment and team without a common adaption.
 
 ## Mindsets and Experiences 
-### Conway's law
-`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
+### Conway's law [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
+`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) 
 
 
-### The Mythical Man-Month or Brooks's law
+### The Mythical Man-Month or Brooks's law [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 `Adding manpower to a late software project makes it later.` (1975)
 
@@ -16,11 +16,9 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 * The modern practices of continuous integration, test-driven development, and iterative development significantly reduce the inter-developer communication overhead, and thus allow for better scalability.
 
-* The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members
+* The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. 
 
-[[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
-
-### Unix Philosophy
+### Unix Philosophy [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
 
 Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978)
 
@@ -28,11 +26,9 @@ The Unix philosophy favors composability as opposed to monolithic design:
 * Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features".
 * Expect the output of every program to become the input to another, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input.
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
-* Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.
+* Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.                         
 
-[[3](https://en.wikipedia.org/wiki/Unix_philosophy)]                         
-
-### About reinventing the wheel
+### About reinventing the wheel [[4](https://www.theconstructsim.com/history-ros/)]
 
 ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007)
 
@@ -40,7 +36,7 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 
 
 ## Methods
-### Waterfall
+### Waterfall Model [[5](https://en.wikipedia.org/wiki/Waterfall_model)]
 The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks
 
 <img src="img/Waterfall_model_.svg" height="50%" width="50%" >
@@ -49,7 +45,7 @@ The waterfall model is a breakdown of project activities into linear sequential 
 * Useful for projects where changes cost a lot of resources and time 
 
 
-### System Engineering and the V-Model
+### System Engineering and the V-Model [[6](https://en.wikipedia.org/wiki/V-Model)]
 
 The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development.
 
@@ -60,9 +56,9 @@ The V models ensures two major aspacts of your development with traceability:
 
 <img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
 
-### SCRUM and Agile Development
+### SCRUM and Agile Development [[7](https://agilemanifesto.org/principles.html)]
 
-SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[4](https://agilemanifesto.org/principles.html)]:
+SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto:
 
 > Individuals and interactions over processes and tools                          
 > Working software over comprehensive documentation                              
