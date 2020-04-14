@@ -33,7 +33,7 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
-### In a Nutshell
+### Key Aspacts In a Nutshell
 <img src="img/key_aspacts.svg" height="50%" width="50%">
 
 ## Methods
