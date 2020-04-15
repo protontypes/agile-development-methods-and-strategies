@@ -74,7 +74,7 @@ SCRUM is a agile method for project management. It consists out of a process and
 > Customer collaboration over contract negotiation                            
 > Responding to change over following a plan.                                      
 
-**My personal favourites of the 12 agile principles:**
+**My personal favourites of the agile principles:**
 
 * Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 * Working software is the primary measure of progress.
@@ -108,3 +108,4 @@ https://www.researchgate.net/publication/316945758_Automotive_Software
 https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206
 https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/1517206?milestone_title=AVP%20MS2%3A%20Follow%20waypoints%20with%20the%20ndt_localizer
 https://assets.vector.com/cms/content/consulting/publications/Agile_Requirements_Engineering.pdf
+https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf
