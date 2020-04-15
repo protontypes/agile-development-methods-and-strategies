@@ -98,8 +98,9 @@ The tests are created out of the requirements and user stories. This aligns with
 DevOps is a set of methods, practices and mindsets which aims to shorten the systems development life cycle and provide continuous delivery with high software quality. This is done by the automation of software development phases of the V-Model.
 
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
-Software is knowledge
-https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/.gitlab-ci.yml
+
+The [AutowareAuto Continuous Integration](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/.gitlab-ci.yml) templates shows how use automated integrating and testing processes on a complete software stack.
+
 
 ### Issue Triage    
 https://about.gitlab.com/handbook/engineering/quality/issue-triage/
