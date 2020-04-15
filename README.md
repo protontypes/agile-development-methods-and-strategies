@@ -29,6 +29,8 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 * The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. 
 
+https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html
+
 ### Unix Philosophy 
 
 Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
@@ -93,9 +95,15 @@ DevOps is a set of methods, practices and mindsets which aims to shorten the sys
 
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
 
-### Defect Triage    
+https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/.gitlab-ci.yml
+
+### Issue Triage    
+https://about.gitlab.com/handbook/engineering/quality/issue-triage/
 
 ### Release and Branching Process   
+https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/develop-in-a-fork.html
 
 ### The W-Model or LeanSAFE (Lean Scaled Agility for Engineering)
-
+https://www.researchgate.net/publication/316945758_Automotive_Software
+https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206
+https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/1517206?milestone_title=AVP%20MS2%3A%20Follow%20waypoints%20with%20the%20ndt_localizer
