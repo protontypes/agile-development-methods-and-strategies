@@ -1,15 +1,25 @@
 # agile-robots
 A summery of mindsets, processes and methods in knowledge intense development processes like robotics. The document intention is to give a entry point to the ROS community for professional robotic development processes, mindsets and methods. 
 
-> No process, mindset and method will fit to your unique working enviroment and team without a common adaption.
+> No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rulesets.
 
-## Mindsets and Experiences 
-### Conway's law [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
-`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) 
+* [Mindsets and Experiences](#mindsets-and-experiences)
+   * [Conways's law](#conways-law)
+   * [The Mythical Man-Month or Brooks law](#the-mythical-man-Month-or-brooks-law)
+   * [Unix Philosophy](#unix-philosophy)
+   * [Reinventing the wheel](#reinventing-the-wheel)
+ * [Methods and Processes](#methods-and-processes)
+   * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
+   * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)     
+   * [Defect Triage](#defect-triage)    
+   * [Gitflow](#gitflow)    
 
-### The Mythical Man-Month or Brooks's law [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
+### Conway's law
+`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 
-`Adding manpower to a late software project makes it later.` (1975)
+### The Mythical Man-Month or Brook's law
+
+`Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 ![the mythical man-month](img/mythical_man_month.png)
 
@@ -17,9 +27,10 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 * The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. 
 
-### Unix Philosophy [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
+### Unix Philosophy 
 
-Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978)
+Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
+
 
 The Unix philosophy favors composability as opposed to monolithic design:
 * Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features".
@@ -27,26 +38,17 @@ The Unix philosophy favors composability as opposed to monolithic design:
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.                         
 
-### About reinventing the wheel [[4](https://www.theconstructsim.com/history-ros/)]
+### Reinventing the wheel 
 
-ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007)
+ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007) [[4](https://www.theconstructsim.com/history-ros/)]
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
+## Methods and Processes 
 
-## Methods
-### Waterfall Model [[5](https://en.wikipedia.org/wiki/Waterfall_model)]
-The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks
+### System Engineering and the V-Model 
 
-<img src="img/Waterfall_model_.svg" height="50%" width="50%" >
-
-* Scales great if customer, management and developers have a lot experinces with the product.
-* Useful for projects where changes cost a lot of resources and time 
-
-
-### System Engineering and the V-Model [[6](https://en.wikipedia.org/wiki/V-Model)]
-
-The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development.
+The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[6](https://en.wikipedia.org/wiki/V-Model)]
 
 The V models ensures two major aspacts of your development with traceability:
 * Are you building it right? **Validation:** The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders. It often involves acceptance and suitability with external customers. Contrast with verification.
@@ -55,9 +57,9 @@ The V models ensures two major aspacts of your development with traceability:
 
 <img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
 
-### SCRUM and Agile Development [[7](https://agilemanifesto.org/principles.html)]
+### SCRUM
 
-SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto:
+SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[7](https://agilemanifesto.org/principles.html)]:
 
 > Individuals and interactions over processes and tools                          
 > Working software over comprehensive documentation                              
@@ -73,21 +75,12 @@ SCRUM is a agile method for project management. It consists out of a process and
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 <img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%">   
- 
-Further agile methods:
-[Extreme Programming](http://www.extremeprogramming.org/) 
-[Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)
+                      
+### Test-driven development
+In test-driven development, each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
+The tests are created out of the requirements and user stories. This aligns with V-Model first steps. 
 
-### Common Missunderstandins about Agile Development Methods
 
-* Agile means less planning.
-* Agile allows rapid changes without any costs.
-* Agile means no requirements.
-* Agile means no process.
-* Agile is always better than classical project management.
-* Agile development can not be used within the V-Model.
-
-## Release, Deploy and Version Control Processes 
 ### DevOP and Continuous Integration 
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
 
