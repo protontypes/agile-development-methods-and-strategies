@@ -29,7 +29,7 @@ A summery of mindsets, processes and methods in knowledge intense development pr
 
 * The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. 
 
-https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html
+Autoware.Auto gives you an example on how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
 
 ### Unix Philosophy 
 
@@ -101,7 +101,9 @@ https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/.
 https://about.gitlab.com/handbook/engineering/quality/issue-triage/
 
 ### Release and Branching Process   
-https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/develop-in-a-fork.html
+One of the first processes showing how to work together with mutliple people on one project was [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/). 
+
+This process has been adapted and modified in many ways over the last years. The [AutowareAuto Branching Model](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/develop-in-a-fork.html) shows you how integrate your development with the work of multiple other developers.
 
 ### The W-Model and LeanSAFE (Lean Scaled Agility for Engineering)
 https://www.researchgate.net/publication/316945758_Automotive_Software
