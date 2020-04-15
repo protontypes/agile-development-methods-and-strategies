@@ -14,6 +14,8 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [Defect Triage](#defect-triage)    
    * [Gitflow](#gitflow)    
 
+## Mindsets and Experiences
+
 ### Conway's law
 `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 
