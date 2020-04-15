@@ -44,6 +44,10 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
+### Knowledge management
+
+To not reinvent the wheel you need to know about the wheel. Knowledge management is one of the most underestimated steps in software development and engineering in general. It is important to always keep in mind that most problems you get involved with have already occurred somewhere else on this planet. The ROS community delivers a treasure of solved robotic problems. 
+
 ## Methods and Processes 
 
 ### System Engineering and the V-Model 
@@ -83,10 +87,13 @@ The tests are created out of the requirements and user stories. This aligns with
 <img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
 
 ### DevOP and Continuous Integration 
+DevOps is a set of methods, practices and mindsets which aims to shorten the systems development life cycle and provide continuous delivery with high software quality. This is done by the automation of software development phases of the V-Model.
+
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
 
 ### Defect Triage    
 
-### Gitflow    
+### Release and Branching Process   
 
+### The W-Model or LeanSAFE (Lean Scaled Agility for Engineering)
 
