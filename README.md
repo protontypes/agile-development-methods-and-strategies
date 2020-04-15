@@ -107,3 +107,4 @@ https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/develop-in-a-for
 https://www.researchgate.net/publication/316945758_Automotive_Software
 https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206
 https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/1517206?milestone_title=AVP%20MS2%3A%20Follow%20waypoints%20with%20the%20ndt_localizer
+https://assets.vector.com/cms/content/consulting/publications/Agile_Requirements_Engineering.pdf
