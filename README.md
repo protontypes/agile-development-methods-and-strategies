@@ -103,7 +103,7 @@ https://about.gitlab.com/handbook/engineering/quality/issue-triage/
 ### Release and Branching Process   
 https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/develop-in-a-fork.html
 
-### The W-Model or LeanSAFE (Lean Scaled Agility for Engineering)
+### The W-Model and LeanSAFE (Lean Scaled Agility for Engineering)
 https://www.researchgate.net/publication/316945758_Automotive_Software
 https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206
 https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/1517206?milestone_title=AVP%20MS2%3A%20Follow%20waypoints%20with%20the%20ndt_localizer
