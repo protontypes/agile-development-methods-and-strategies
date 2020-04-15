@@ -8,14 +8,12 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [The Mythical Man-Month or Brooks law](#the-mythical-man-Month-or-brooks-law)
    * [Unix Philosophy](#unix-philosophy)
    * [Reinventing the wheel](#reinventing-the-wheel)
-   * [Key Aspacts In a Nutshell](#key-aspacts-in-a-nutshell)
  * [Methods](#methods)
-   * [Waterfall Model](#waterfall-model)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
    * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
-   * [Release, Deploy and Version Control Processes](#Release-Deploy-and-Version-Control-Processes) 
-
-## Mindsets and Experiences 
+ * [Release, Deploy and Version Control Processes](#Release-Deploy-and-Version-Control-Processes)        
+   * [Defect Triage](#defect-triage)    
+   * [Gitflow](#gitflow)    
 
 ### Conway's law
 `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
@@ -51,14 +49,6 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 <img src="img/key_aspacts.svg" height="50%" width="50%">
 
 ## Methods
-### Waterfall Model 
-The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks. [[5](https://en.wikipedia.org/wiki/Waterfall_model)]
-
-<img src="img/Waterfall_model_.svg" height="50%" width="50%" >
-
-* Scales great if customer, management and developers have a lot experinces with the product.
-* Useful for projects where changes cost a lot of resources and time 
-
 
 ### System Engineering and the V-Model 
 
@@ -94,14 +84,6 @@ Further agile methods:
 * [Extreme Programming](http://www.extremeprogramming.org/)                 
 * [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)                  
 
-### Common Missunderstandins about Agile Development Methods
-
-* Agile means less planning.
-* Agile allows rapid changes without any costs.
-* Agile means no requirements.
-* Agile means no process.
-* Agile is always better than classical project management.
-* Agile development can not be used within the V-Model.  
 
 ## Release, Deploy and Version Control Processes 
 ### DevOP and Continuous Integration 
