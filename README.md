@@ -8,10 +8,9 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [The Mythical Man-Month or Brooks law](#the-mythical-man-Month-or-brooks-law)
    * [Unix Philosophy](#unix-philosophy)
    * [Reinventing the wheel](#reinventing-the-wheel)
- * [Methods](#methods)
+ * [Methods and Processes](#methods-and-processes)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
-   * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
- * [Release, Deploy and Version Control Processes](#Release-Deploy-and-Version-Control-Processes)        
+   * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)     
    * [Defect Triage](#defect-triage)    
    * [Gitflow](#gitflow)    
 
@@ -45,7 +44,7 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
-## Methods
+## Methods and Processes 
 
 ### System Engineering and the V-Model 
 
@@ -58,7 +57,7 @@ The V models ensures two major aspacts of your development with traceability:
 
 <img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
 
-### SCRUM and Agile Development 
+### SCRUM
 
 SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[7](https://agilemanifesto.org/principles.html)]:
 
@@ -76,13 +75,12 @@ SCRUM is a agile method for project management. It consists out of a process and
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 <img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%">   
- 
-Further agile methods:   
-* [Extreme Programming](http://www.extremeprogramming.org/)                 
-* [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)                  
+                      
+### Test-driven development
+In test-driven development, each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
+The tests are created out of the requirements and user stories. This aligns with V-Model first steps. 
 
 
-## Release, Deploy and Version Control Processes 
 ### DevOP and Continuous Integration 
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
 
