@@ -80,6 +80,7 @@ SCRUM is a agile method for project management. It consists out of a process and
 In test-driven development, each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
 The tests are created out of the requirements and user stories. This aligns with V-Model first steps. 
 
+<img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
 
 ### DevOP and Continuous Integration 
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
