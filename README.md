@@ -8,11 +8,15 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [The Mythical Man-Month or Brooks law](#the-mythical-man-Month-or-brooks-law)
    * [Unix Philosophy](#unix-philosophy)
    * [Reinventing the wheel](#reinventing-the-wheel)
+   * [Software is knowledge](#software-is-knowledge)
  * [Methods and Processes](#methods-and-processes)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
-   * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)     
-   * [Defect Triage](#defect-triage)    
-   * [Gitflow](#gitflow)    
+   * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
+   * [Test-driven development](#Test-driven-development)
+   * [DevOP and Continuous Integration](#DevOP-and-Continuous-Integration)    
+   * [Release and Branching Process](#release-and-branching-process)
+   * [Issue Triage](#issue-triage) 
+   * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)
 
 ## Mindsets and Experiences
 
@@ -105,7 +109,7 @@ One of the first processes showing how to work together with mutliple people on 
 
 This process has been adapted and modified in many ways over the last years. The [AutowareAuto Branching Model](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/develop-in-a-fork.html) shows you how integrate your development with the work of multiple other developers.
 
-### The W-Model and LeanSAFE (Lean Scaled Agility for Engineering)
+### The W-Model and Lean Scaled Agility for Engineering
 https://www.researchgate.net/publication/316945758_Automotive_Software
 https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206
 https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/1517206?milestone_title=AVP%20MS2%3A%20Follow%20waypoints%20with%20the%20ndt_localizer
