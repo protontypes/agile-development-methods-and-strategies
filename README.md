@@ -13,7 +13,7 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
    * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
    * [Test-driven development](#Test-driven-development)
-   * [DevOP and Continuous Integration](#DevOP-and-Continuous-Integration)    
+   * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)    
    * [Release and Branching Process](#release-and-branching-process)
    * [Issue Triage](#issue-triage) 
    * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)
@@ -106,7 +106,7 @@ The tests are created out of the requirements and user stories. This aligns with
 
 <img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
 
-#### DevOP and Continuous Integration 
+#### DevOPs and Continuous Integration 
 DevOps is a set of methods, practices and mindsets which aims to shorten the systems development life cycle and provide continuous delivery with high software quality. This is done by the automation of software development phases of the V-Model.
 
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
