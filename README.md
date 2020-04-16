@@ -16,7 +16,8 @@ A summery of mindsets, processes and methods in knowledge intense development pr
    * [Test-driven development](#Test-driven-development)
    * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)   
    * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)  
- * [Release and Branching Process](#release-and-branching-process)
+ * [Development Workflow](#development-workflow)
+   * [Release and Branching Process](#release-and-branching-process)
    * [Issue Triage](#issue-triage) 
 
 ## Mindsets and Experiences
