@@ -95,11 +95,11 @@ SCRUM is a agile method for project management. It consists out of a process and
 
 XP describes four basic activities that are performed within the software development process: coding, testing, listening, and designing.
 
-Many extreme-programming practices have been around for some time; the methodology takes "best practices" to extreme levels. For example, the "practice of test-first development, planning and writing tests before each micro-increment" was used as early as NASA's Project Mercury, in the early 1960s. [8](https://en.wikipedia.org/wiki/Extreme_programming)
+Many extreme-programming practices have been around for some time; the methodology takes "best practices" to extreme levels. For example, the "practice of test-first development, planning and writing tests before each micro-increment" was used as early as NASA's Project Mercury, in the early 1960s. [[8](https://en.wikipedia.org/wiki/Extreme_programming)]
 
 #### Test-driven development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
-The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [9](https://en.wikipedia.org/wiki/Test-driven_development)
+The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[9](https://en.wikipedia.org/wiki/Test-driven_development)]
 
   * Unit tests determine whether a given feature works as intended. Programmers write as many automated tests as they can think of that might "break" the code; if all tests run successfully, then the coding is complete. Every piece of code that is written is tested before moving on to the next feature.
   * Acceptance tests verify that the requirements as understood by the programmers satisfy the customer's actual requirements.
