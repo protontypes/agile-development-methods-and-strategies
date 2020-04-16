@@ -62,6 +62,8 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 
 ### System Engineering and the V-Model 
 
+Systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an engineered system, can be defined as a combination of components that work in synergy to collectively perform a useful function.[5](https://en.wikipedia.org/wiki/Systems_engineering)
+
 The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[6](https://en.wikipedia.org/wiki/V-Model)]
 
 The V models ensures two major aspacts of your development with traceability:
@@ -95,7 +97,11 @@ SCRUM is a agile method for project management. It consists out of a process and
 
 Extreme Programming (XP) describes four basic activities that are performed within the software development process: coding, testing, listening, and designing.
 
-XP takes this concept to the extreme level, writing automated tests (sometimes inside software modules) which validate the operation of even small sections of software coding, rather than only testing the larger features
+XP takes this concept to the extreme level, writing automated tests (sometimes inside software modules) which validate the operation of even small sections of software coding, rather than only testing the larger features.
+
+Extreme Programming knows two forms of user stories aligning with the V-Model validation and verification.
+  * Validation: Unit tests determine whether a given feature works as intended. Programmers write as many automated tests as they can think of that might "break" the code; if all tests run successfully, then the coding is complete. Every piece of code that is written is tested before moving on to the next feature.
+  * Verification: Acceptance tests verify that the requirements as understood by the programmers satisfy the customer's actual requirements.
 
 <img src="img/Extreme_Programming.svg.png" height="50%" width="50%"> 
 
@@ -104,10 +110,6 @@ XP takes this concept to the extreme level, writing automated tests (sometimes i
 ### Test-driven development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
 The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[9](https://en.wikipedia.org/wiki/Test-driven_development)]
-
-Extreme Programming knows two forms of user stories aligning with the V-Model validation and verification.
-  * Validation: Unit tests determine whether a given feature works as intended. Programmers write as many automated tests as they can think of that might "break" the code; if all tests run successfully, then the coding is complete. Every piece of code that is written is tested before moving on to the next feature.
-  * Verification: Acceptance tests verify that the requirements as understood by the programmers satisfy the customer's actual requirements.
 
 <img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
 
