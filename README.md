@@ -12,11 +12,12 @@ A summery of mindsets, processes and methods in knowledge intense development pr
  * [Methods and Processes](#methods-and-processes)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
    * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
+   * [Extreme Programming](#Extreme-Programming)
    * [Test-driven development](#Test-driven-development)
-   * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)    
-   * [Release and Branching Process](#release-and-branching-process)
+   * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)   
+   * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)  
+ * [Release and Branching Process](#release-and-branching-process)
    * [Issue Triage](#issue-triage) 
-   * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)
 
 ## Mindsets and Experiences
 
@@ -78,7 +79,7 @@ SCRUM is a agile method for project management. It consists out of a process and
 > Customer collaboration over contract negotiation                            
 > Responding to change over following a plan.                                      
 
-**My personal favourites of the agile principles:**
+**Some agile principles:**
 
 * Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 * Working software is the primary measure of progress.
@@ -89,31 +90,40 @@ SCRUM is a agile method for project management. It consists out of a process and
 <img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%"> 
 
 
-### Feature-Driven-Development
-
 ### Extreme Programming 
 
 XP describes four basic activities that are performed within the software development process: coding, testing, listening, and designing.
 
+
+
 Many extreme-programming practices have been around for some time; the methodology takes "best practices" to extreme levels. For example, the "practice of test-first development, planning and writing tests before each micro-increment" was used as early as NASA's Project Mercury, in the early 1960s. [[8](https://en.wikipedia.org/wiki/Extreme_programming)]
 
-#### Test-driven development
+### Test-driven development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
 The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[9](https://en.wikipedia.org/wiki/Test-driven_development)]
 
-  * Unit tests determine whether a given feature works as intended. Programmers write as many automated tests as they can think of that might "break" the code; if all tests run successfully, then the coding is complete. Every piece of code that is written is tested before moving on to the next feature.
-  * Acceptance tests verify that the requirements as understood by the programmers satisfy the customer's actual requirements.
+Extreme Programming knows two forms of user stories aligning with the v-model validation and verification
+  * Validation: Unit tests determine whether a given feature works as intended. Programmers write as many automated tests as they can think of that might "break" the code; if all tests run successfully, then the coding is complete. Every piece of code that is written is tested before moving on to the next feature.
+  * Verification: Acceptance tests verify that the requirements as understood by the programmers satisfy the customer's actual requirements.
 
 <img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
 
-#### DevOPs and Continuous Integration 
+### DevOPs and Continuous Integration 
 DevOps is a set of methods, practices and mindsets which aims to shorten the systems development life cycle and provide continuous delivery with high software quality. This is done by the automation of software development phases of the V-Model.
 
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
 
 The [AutowareAuto Continuous Integration](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/.gitlab-ci.yml) templates shows how use automated integrating and testing processes on a complete software stack.
 
+### The W-Model and Lean Scaled Agility for Engineering
+https://www.researchgate.net/publication/316945758_Automotive_Software
+https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206
+https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/1517206?milestone_title=AVP%20MS2%3A%20Follow%20waypoints%20with%20the%20ndt_localizer
+https://assets.vector.com/cms/content/consulting/publications/Agile_Requirements_Engineering.pdf
+https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf
 
+
+## Development Workflow
 ### Issue Triage    
 https://about.gitlab.com/handbook/engineering/quality/issue-triage/
 
@@ -122,9 +132,3 @@ One of the first processes showing how to work together with mutliple people on 
 
 This process has been adapted and modified in many ways over the last years. The [AutowareAuto Branching Model](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/develop-in-a-fork.html) shows you how integrate your development with the work of multiple other developers.
 
-### The W-Model and Lean Scaled Agility for Engineering
-https://www.researchgate.net/publication/316945758_Automotive_Software
-https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206
-https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/1517206?milestone_title=AVP%20MS2%3A%20Follow%20waypoints%20with%20the%20ndt_localizer
-https://assets.vector.com/cms/content/consulting/publications/Agile_Requirements_Engineering.pdf
-https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf
