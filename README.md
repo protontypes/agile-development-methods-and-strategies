@@ -99,7 +99,7 @@ Extreme Programming (XP) describes four basic activities that are performed with
 
 XP takes this concept to the extreme level, writing automated tests (sometimes inside software modules) which validate the operation of even small sections of software coding, rather than only testing the larger features.
 
-Extreme Programming knows two forms of user stories aligning with the V-Model validation and verification.
+XP knows two forms of user stories aligning with the V-Model validation and verification.
   * Validation: Unit tests determine whether a given feature works as intended. Programmers write as many automated tests as they can think of that might "break" the code; if all tests run successfully, then the coding is complete. Every piece of code that is written is tested before moving on to the next feature.
   * Verification: Acceptance tests verify that the requirements as understood by the programmers satisfy the customer's actual requirements.
 
