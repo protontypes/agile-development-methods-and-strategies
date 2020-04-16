@@ -62,7 +62,7 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 
 ### System Engineering and the V-Model 
 
-Systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an engineered system, can be defined as a combination of components that work in synergy to collectively perform a useful function.[5](https://en.wikipedia.org/wiki/Systems_engineering)
+Systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an engineered system, can be defined as a combination of components that work in synergy to collectively perform a useful function.[[5](https://en.wikipedia.org/wiki/Systems_engineering)]
 
 The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[6](https://en.wikipedia.org/wiki/V-Model)]
 
