@@ -93,11 +93,13 @@ SCRUM is a agile method for project management. It consists out of a process and
 
 ### Extreme Programming 
 
-XP describes four basic activities that are performed within the software development process: coding, testing, listening, and designing.
+Extreme Programming (XP) describes four basic activities that are performed within the software development process: coding, testing, listening, and designing.
 
+XP takes this concept to the extreme level, writing automated tests (sometimes inside software modules) which validate the operation of even small sections of software coding, rather than only testing the larger features
 
+<img src="img/Extreme_Programming.svg.png" height="50%" width="50%"> 
 
-Many extreme-programming practices have been around for some time; the methodology takes "best practices" to extreme levels. For example, the "practice of test-first development, planning and writing tests before each micro-increment" was used as early as NASA's Project Mercury, in the early 1960s. [[8](https://en.wikipedia.org/wiki/Extreme_programming)]
+[[8](https://en.wikipedia.org/wiki/Extreme_programming)]
 
 ### Test-driven development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
