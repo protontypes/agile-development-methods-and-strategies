@@ -9,6 +9,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [Unix Philosophy](#unix-philosophy)
    * [Reinventing the wheel](#reinventing-the-wheel)
    * [Software is knowledge](#software-is-knowledge)
+   * [Safety and Security Culture](#safety-and-security-culture)
  * [Methods and Processes](#methods-and-processes)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
    * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
@@ -23,11 +24,11 @@ No process, mindset and method will fit exactly to your unique working enviromen
 ## Mindsets and Experiences
 
 ### Conway's law - About the importance of Communication
-`Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
+> `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 
 ### Brook's law - About the Overhead of Communication
 
-`Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
+> `Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 ![the mythical man-month](img/mythical_man_month.png)
 
@@ -57,6 +58,10 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 ### Software is knowledge
 
 To not reinvent the wheel you need to know about the wheel. Knowledge management is one of the most underestimated steps in software development and engineering in general. It is important to always keep in mind that most problems you get involved with have already occurred somewhere else on this planet. The ROS community delivers a treasure of solved robotic problems. A major part of robotic development is gathering the right information and knowledge.
+
+### Safety and Security Culture
+
+> Safety culture is a culture where employees can tell the boss bad news. — Dr Sidney Dekker
 
 ## Methods and Processes 
 
