@@ -73,9 +73,17 @@ The V models ensures two major aspacts of your development with traceability:
 
 <img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
 
+### Model Based Design or Model-based Systems Engineering
+
+Model-based design provides an efficient approach for establishing a common framework for communication throughout the design process while supporting the development cycle (V-model).
+
+The model-based design is significantly different from traditional design methodology. Rather than using complex structures and extensive software code, designers can use Model-based design to define plant models with advanced functional characteristics using continuous-time and discrete-time building blocks. These built models used with simulation tools can lead to rapid prototyping, software testing, and verification.[[7](https://en.wikipedia.org/wiki/Model-based_design)]
+
+Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommen to use in complex robotic development. Some reasons for that can be found here: [[8](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
+
 ### SCRUM
 
-SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[7](https://agilemanifesto.org/principles.html)]:
+SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[9](https://agilemanifesto.org/principles.html)]:
 
 > Individuals and interactions over processes and tools                          
 > Working software over comprehensive documentation                              
@@ -105,11 +113,11 @@ XP knows two forms of user stories aligning with the V-Model validation and veri
 
 <img src="img/Extreme_Programming.svg.png" height="50%" width="50%"> 
 
-[[8](https://en.wikipedia.org/wiki/Extreme_programming)]
+[[10](https://en.wikipedia.org/wiki/Extreme_programming)]
 
 ### Test-driven development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
-The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[9](https://en.wikipedia.org/wiki/Test-driven_development)]
+The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[11](https://en.wikipedia.org/wiki/Test-driven_development)]
 
 <img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
 
