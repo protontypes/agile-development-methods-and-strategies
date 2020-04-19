@@ -64,15 +64,14 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 > `Safety culture is a culture where employees can tell the boss bad news.` — Sidney Dekker
 
 The term ‘safety culture’ was first used in the Report on the chernobyl disaster:
-> `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.` 
-
+> `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.`  [[5](https://en.wikipedia.org/wiki/Safety_culture)]
 ## Methods and Processes 
 
 ### System Engineering and the V-Model 
 
-Systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an engineered system, can be defined as a combination of components that work in synergy to collectively perform a useful function.[[5](https://en.wikipedia.org/wiki/Systems_engineering)]
+Systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an engineered system, can be defined as a combination of components that work in synergy to collectively perform a useful function.[[6](https://en.wikipedia.org/wiki/Systems_engineering)]
 
-The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[6](https://en.wikipedia.org/wiki/V-Model)]
+The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[7](https://en.wikipedia.org/wiki/V-Model)]
 
 The V models ensures two major aspacts of your development with traceability:
 * Are you building it right? **Validation:** The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders. It often involves acceptance and suitability with external customers. Contrast with verification.
@@ -85,13 +84,13 @@ The V models ensures two major aspacts of your development with traceability:
 
 Model-based design provides an efficient approach for establishing a common framework for communication throughout the design process while supporting the development cycle (V-model).
 
-The model-based design is significantly different from traditional design methodology. Rather than using complex structures and extensive software code, designers can use Model-based design to define plant models with advanced functional characteristics using continuous-time and discrete-time building blocks. These built models used with simulation tools can lead to rapid prototyping, software testing, and verification.[[7](https://en.wikipedia.org/wiki/Model-based_design)]
+The model-based design is significantly different from traditional design methodology. Rather than using complex structures and extensive software code, designers can use Model-based design to define plant models with advanced functional characteristics using continuous-time and discrete-time building blocks. These built models used with simulation tools can lead to rapid prototyping, software testing, and verification.[[8](https://en.wikipedia.org/wiki/Model-based_design)]
 
-Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommen to use in complex robotic development. Some reasons for that can be found here: [[8](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
+Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommen to use in complex robotic development. Some reasons for that can be found here: [[9](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
 
 ### SCRUM
 
-SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[9](https://agilemanifesto.org/principles.html)]:
+SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[10](https://agilemanifesto.org/principles.html)]:
 
 > Individuals and interactions over processes and tools                          
 > Working software over comprehensive documentation                              
@@ -125,7 +124,7 @@ XP knows two forms of user stories aligning with the V-Model validation and veri
 
 ### Test-driven development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
-The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[11](https://en.wikipedia.org/wiki/Test-driven_development)]
+The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[10](https://en.wikipedia.org/wiki/Test-driven_development)]
 
 <img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
 
