@@ -22,10 +22,10 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 ## Mindsets and Experiences
 
-### Conway's law
+### Conway's law - About the importance of Communication
 `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 
-### The Mythical Man-Month or Brook's law
+### Brook's law - About the Overhead of Communication
 
 `Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
@@ -33,11 +33,11 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 * The modern practices of continuous integration, test-driven development, and iterative development significantly reduce the inter-developer communication overhead, and thus allow for better scalability.
 
-* The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. 
+* The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 Autoware.Auto gives you an example on how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
 
-### Unix Philosophy 
+### Unix Philosophy - About Slicing Complexity on different humans
 
 Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
 
