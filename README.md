@@ -61,7 +61,7 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 
 ### Safety and Security Culture
 
-> Safety culture is a culture where employees can tell the boss bad news. — Dr Sidney Dekker
+> `Safety culture is a culture where employees can tell the boss bad news.` — Sidney Dekker
 
 The term ‘safety culture’ was first used in the Report on the chernobyl disaster:
 > `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.` 
