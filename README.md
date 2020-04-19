@@ -4,9 +4,9 @@ A summery of development concept in knowledge intense domains like robotics. The
 No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rulesets.
 
 * [Mindsets and Experiences](#mindsets-and-experiences)
-   * [Conways's law](#conways-law)
-   * [The Mythical Man-Month or Brooks law](#the-mythical-man-Month-or-brooks-law)
-   * [Unix Philosophy](#unix-philosophy)
+   * [Conway's law - About the importance of Communication](#Conways-law-About-the-importance-of-Communication)
+   * [Brook's law - About the Overhead of Communication](#Brooks-law-About-the-Overhead-of-Communication)
+   * [Unix Philosophy - About Slicing Complexity](#Unix-Philosophy-About-Slicing-Complexity)
    * [Reinventing the wheel](#reinventing-the-wheel)
    * [Software is knowledge](#software-is-knowledge)
    * [Safety and Security Culture](#safety-and-security-culture)
@@ -23,7 +23,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 ## Mindsets and Experiences
 
-### Conway's law - About the importance of Communication
+### Conway's law - About the Importance of Communication
 > `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
 
 ### Brook's law - About the Overhead of Communication
@@ -38,7 +38,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 Autoware.Auto gives you an example on how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
 
-### Unix Philosophy - About Slicing Complexity on different humans
+### Unix Philosophy - About Slicing Complexity
 
 Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
 
