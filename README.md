@@ -78,7 +78,7 @@ The V models ensures two major aspacts of your development with traceability:
 
 * Are you building the right thing? **Verification:**  The evaluation of whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition. It is often an internal process. Contrast with validation.
 
-<img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">
+<img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">                     
 [[7a](https://commons.wikimedia.org/wiki/File:Systems_Engineering_V_diagram.jpg)]
 
 ### Model Based Design or Model-based Systems Engineering
