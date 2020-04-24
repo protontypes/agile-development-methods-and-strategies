@@ -143,10 +143,6 @@ https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/151720
 https://assets.vector.com/cms/content/consulting/publications/Agile_Requirements_Engineering.pdf
 https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf
 
-### Coding Principles
-## DRY - Don't repeat yourself
-https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
-
 ## Development Workflow
 ### Issue Triage    
 https://about.gitlab.com/handbook/engineering/quality/issue-triage/
