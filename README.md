@@ -31,6 +31,8 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 >  `Simon Sinek says people are inspired by a sense of purpose (or "Why"), and that this should come first when communicating, before "How" and "What". Sinek calls this triad the golden circle, a diagram of a bullseye with "Why" in the innermost circle (representing people's motives or purposes), surrounded by a ring labeled "How" (representing people's processes or methods), enclosed in a ring labeled "What" (representing results or outcomes).` [[12](https://en.wikipedia.org/wiki/Start_With_Why)]
 
+![](img/Golden_circle.png)
+
 ### Brook's law - About the Overhead of Communication
 
 > `Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
@@ -94,7 +96,7 @@ The model-based design is significantly different from traditional design method
 
 Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommen to use in complex robotic development. Some reasons for that can be found here: [[9](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
 
-### SCRUM
+### SCRUM and the Agile Manifesto
 
 SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[10](https://agilemanifesto.org/principles.html)]:
 
@@ -118,8 +120,6 @@ Scrum is a lightweight, iterative and incremental framework for managing complex
 A key principle of Scrum is the dual recognition that customers will change their minds about what they want or need (often called requirements volatility) and that there will be unpredictable challenges—for which a predictive or planned approach is not suited.
 
 As such, Scrum adopts an evidence-based empirical approach – accepting that the problem cannot be fully understood or defined up front, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions. [[13](https://en.wikipedia.org/wiki/Scrum_(software_development)#Key_ideas)]
-
-Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known. Scrum employs an iterative, incremental approach to optimize predictability and control risk. Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.
 
 Read the [official Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) by the creators Ken Schwaber and Jeff Sutherland to get a better understanding of the process elements shown in this image:
 
