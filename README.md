@@ -5,6 +5,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 * [Mindsets and Experiences](#mindsets-and-experiences)
    * [Conway's law - About the importance of Communication](#Conways-law-About-the-importance-of-Communication)
+   * [The Golden Circle - About Intrinsic Motivation by Communication](#The-Golden-Circle-About-Intrinsic-Motivation-by-Communication)
    * [Brook's law - About the Overhead of Communication](#Brooks-law-About-the-Overhead-of-Communication)
    * [Unix Philosophy - About Slicing Complexity](#Unix-Philosophy-About-Slicing-Complexity)
    * [Reinventing the wheel](#reinventing-the-wheel)
@@ -27,7 +28,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 > `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)] 
 
-### The Golden Circle - Intrinsic Motivation by Communication
+### The Golden Circle - About Intrinsic Motivation by Communication
 
 >  `Simon Sinek says people are inspired by a sense of purpose (or "Why"), and that this should come first when communicating, before "How" and "What". Sinek calls this triad the golden circle, a diagram of a bullseye with "Why" in the innermost circle (representing people's motives or purposes), surrounded by a ring labeled "How" (representing people's processes or methods), enclosed in a ring labeled "What" (representing results or outcomes).` [[12](https://en.wikipedia.org/wiki/Start_With_Why)]
 
