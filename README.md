@@ -24,7 +24,13 @@ No process, mindset and method will fit exactly to your unique working enviromen
 ## Mindsets and Experiences
 
 ### Conway's law - About the Importance of Communication
-> `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)]
+
+> `Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.` (1967) [[1](https://en.wikipedia.org/wiki/Conway%27s_law)] 
+
+### The Golden Circle - Intrinsic Motivation by Communication
+
+>  `Simon Sinek says people are inspired by a sense of purpose (or "Why"), and that this should come first when communicating, before "How" and "What". Sinek calls this triad the golden circle, a diagram of a bullseye with "Why" in the innermost circle (representing people's motives or purposes), surrounded by a ring labeled "How" (representing people's processes or methods), enclosed in a ring labeled "What" (representing results or outcomes).` [[12](https://en.wikipedia.org/wiki/Start_With_Why)]
+
 
 ### Brook's law - About the Overhead of Communication
 
@@ -125,7 +131,7 @@ XP knows two forms of user stories aligning with the V-Model validation and veri
 
 ### Test-driven development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
-The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[10](https://en.wikipedia.org/wiki/Test-driven_development)]
+The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[11](https://en.wikipedia.org/wiki/Test-driven_development)]
 
 <img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
 
