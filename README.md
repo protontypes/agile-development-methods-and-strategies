@@ -1,5 +1,5 @@
 # Agile Concept of Robots
-A summery of development concept in knowledge intense domains like robotics. The document intention is to give a entry point for professional robotic development processes, mindsets and methods. 
+A summery of development concepts in knowledge intense domains like robotics. The document intention is to give a entry point for professional robotic development processes, mindsets and methods. 
 
 No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rulesets.
 
@@ -31,16 +31,15 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 >  `Simon Sinek says people are inspired by a sense of purpose (or "Why"), and that this should come first when communicating, before "How" and "What". Sinek calls this triad the golden circle, a diagram of a bullseye with "Why" in the innermost circle (representing people's motives or purposes), surrounded by a ring labeled "How" (representing people's processes or methods), enclosed in a ring labeled "What" (representing results or outcomes).` [[12](https://en.wikipedia.org/wiki/Start_With_Why)]
 
-
 ### Brook's law - About the Overhead of Communication
 
 > `Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 ![the mythical man-month](img/mythical_man_month.png)
 
-* The modern practices of continuous integration, test-driven development, and iterative development significantly reduce the inter-developer communication overhead, and thus allow for better scalability.
+The modern practices of continuous integration, test-driven development, and iterative development significantly reduce the inter-developer communication overhead, and thus allow for better scalability.
 
-* The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
+The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 Autoware.Auto gives you an example on how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
 
@@ -112,8 +111,19 @@ SCRUM is a agile method for project management. It consists out of a process and
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-<img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%"> 
+#### Key Ideas of SCRUM
 
+Scrum is a lightweight, iterative and incremental framework for managing complex work. The framework challenges assumptions of the traditional, sequential approach to product development, and enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines involved.
+
+A key principle of Scrum is the dual recognition that customers will change their minds about what they want or need (often called requirements volatility) and that there will be unpredictable challenges—for which a predictive or planned approach is not suited.
+
+As such, Scrum adopts an evidence-based empirical approach – accepting that the problem cannot be fully understood or defined up front, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions. [[13](https://en.wikipedia.org/wiki/Scrum_(software_development)#Key_ideas)]
+
+Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known. Scrum employs an iterative, incremental approach to optimize predictability and control risk. Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.
+
+Read the [official Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) by the creators Ken Schwaber and Jeff Sutherland to get a better understanding of the process elements shown in this image:
+
+<img src="img/File_ScrumSchwaberBeedle.svg" height="50%" width="50%"> 
 
 ### Extreme Programming 
 
