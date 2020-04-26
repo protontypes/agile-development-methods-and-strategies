@@ -9,7 +9,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [Brook's law - About the Overhead of Communication](#Brooks-law---About-the-Overhead-of-Communication)
    * [The Power of Giving up Power - About Delegation](#The-Power-of-Giving-up-Power---About-Delegation)
    * [Unix Philosophy - About Slicing Complexity](#Unix-Philosophy---About-Slicing-Complexity)
-   * [Reinventing the Wheel](#reinventing-the-wheel)
+   * [Reinventing the Wheel - About Progress](#reinventing-the-wheel---About-Progress)
    * [Software is Knowledge](#software-is-knowledge)
    * [Safety and Security Culture](#safety-and-security-culture)
  * [Methods and Processes](#methods-and-processes)
