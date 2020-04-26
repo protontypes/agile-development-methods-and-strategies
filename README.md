@@ -82,6 +82,9 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 
 The term ‘safety culture’ was first used in the Report on the chernobyl disaster and was described as:
 > `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.`  [[7](https://en.wikipedia.org/wiki/Safety_culture)]
+
+Parkopedia released there [Safety Documents](https://avp-project.uk/publication-of-safety-documents) for the Autononmous Valid Parking Use-Cases that will also be [applied by Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206). 
+
 ## Methods and Processes 
 
 ### System Engineering and the V-Model 
@@ -163,9 +166,8 @@ DevOps is a set of methods, practices and mindsets which aims to shorten the sys
 The [AutowareAuto Continuous Integration](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/.gitlab-ci.yml) templates shows how use automated integrating and testing processes on a complete software stack.
 
 ### The W-Model and Lean Scaled Agility for Engineering
-https://www.researchgate.net/publication/316945758_Automotive_Software
-https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206
-https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/boards/1517206?milestone_title=AVP%20MS2%3A%20Follow%20waypoints%20with%20the%20ndt_localizer
+
+
 https://assets.vector.com/cms/content/consulting/publications/Agile_Requirements_Engineering.pdf
 https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf
 
