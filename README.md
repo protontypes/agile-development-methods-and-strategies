@@ -74,7 +74,7 @@ ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of th
 
 ### Software is Knowledge
 
-To not reinvent the wheel you need to know about the wheel. Knowledge management is one of the most underestimated steps in software development and engineering in general. It is important to always keep in mind that most problems you get involved with have already occurred somewhere else on this planet. The ROS community delivers a treasure of solved robotic problems. A major part of robotic development is gathering the right information and knowledge.
+To not reinvent the wheel you need to know about the wheel. Knowledge management is a major aspacts in software development and engineering in general. It is crucial to keep in mind that most problems you get involved with have already occurred somewhere else on this planet. The ROS community delivers a treasure of solved robotic problems. A major part of robotic development is gathering the right information and knowledge and sharing it with your team.
 
 ### Safety and Security Culture
 
