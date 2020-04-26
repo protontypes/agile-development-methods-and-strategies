@@ -66,7 +66,7 @@ The Unix philosophy favors composability as opposed to monolithic design:
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.                         
 
-### Reinventing The Wheel 
+### Reinventing The Wheel - About Progress
 
 ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007) [[4](https://www.theconstructsim.com/history-ros/)]
 
