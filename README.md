@@ -7,6 +7,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [Conway's law - About the importance of Communication](#Conways-law-About-the-importance-of-Communication)
    * [The Golden Circle - About Intrinsic Motivation by Communication](#The-Golden-Circle-About-Intrinsic-Motivation-by-Communication)
    * [Brook's law - About the Overhead of Communication](#Brooks-law-About-the-Overhead-of-Communication)
+   * [The Power of Giving up Power - About Delegation](#The-Power-of-Giving-up-Power-About-Delegation)
    * [Unix Philosophy - About Slicing Complexity](#Unix-Philosophy-About-Slicing-Complexity)
    * [Reinventing the wheel](#reinventing-the-wheel)
    * [Software is knowledge](#software-is-knowledge)
@@ -48,7 +49,7 @@ The design pattern defines the rules that the programmers follow, simplifies com
 
 Autoware.Auto gives you an example on how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
 
-### The Power of Giving up Power
+### The Power of Giving up Power - About Delegation
 
 > `If one believes, as I have argued at many places in this book, that creativity comes from individuals and not from structures processes, then a central question facing the software manager is how to design structure and process so as to enhance rather than inhibit, creativity and initative.`  by Frederick Brooks in the Mythical Man-Month in 1995
 
