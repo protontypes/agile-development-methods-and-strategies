@@ -38,7 +38,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 ### Brook's law - About the Overhead of Communication
 
-> `Adding manpower to a late software project makes it later.` (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
+> `Adding manpower to a late software project makes it later.` by Frederick Brooks in the Mythical Man-Month (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 ![the mythical man-month](img/mythical_man_month.png)
 
@@ -47,6 +47,12 @@ The modern practices of continuous integration, test-driven development, and ite
 The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 Autoware.Auto gives you an example on how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
+
+### The Power of Giving up Power
+
+> `If one believes, as I have argued at many places in this book, that creativity comes from individuals and not from structures processes, then a central question facing the software manager is how to design structure and process so as to enhance rather than inhibit, creativity and initative.`  by Frederick Brooks in the Mythical Man-Month in 1995
+
+There has been a traditional belief in most businesses about the decision-making in the organization – the managers tell the workers how to do their own job. In a "Work-Out technique", the roles are turned – the managers are taught how to listen to the developers, so they can explain better what actions might be taken, as well as provide suggestions for improvements. The lean approach follows the Agile Principle[7] "build projects around motivated individuals [...] and trust them to get the job done"[8], encouraging progress, catching errors, and removing impediments, but not micro-managing. [[Lean software development](https://en.wikipedia.org/wiki/Lean_software_development#Empower_the_team)
 
 ### Unix Philosophy - About Slicing Complexity
 
