@@ -31,7 +31,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 ### The Golden Circle - About Intrinsic Motivation by Communication
 
->  `Simon Sinek says people are inspired by a sense of purpose (or "Why"), and that this should come first when communicating, before "How" and "What". Sinek calls this triad the golden circle, a diagram of a bullseye with "Why" in the innermost circle (representing people's motives or purposes), surrounded by a ring labeled "How" (representing people's processes or methods), enclosed in a ring labeled "What" (representing results or outcomes).` [[12](https://en.wikipedia.org/wiki/Start_With_Why)]
+>  `Simon Sinek says people are inspired by a sense of purpose (or "Why"), and that this should come first when communicating, before "How" and "What". Sinek calls this triad the golden circle, a diagram of a bullseye with "Why" in the innermost circle (representing people's motives or purposes), surrounded by a ring labeled "How" (representing people's processes or methods), enclosed in a ring labeled "What" (representing results or outcomes).` [[2](https://en.wikipedia.org/wiki/Start_With_Why)]
 
 
 <img src="img/Golden_circle.png" height="25%" width="25%" >
@@ -39,13 +39,13 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 ### Brook's law - About the Overhead of Communication
 
-> `Adding manpower to a late software project makes it later.` by Frederick Brooks in the Mythical Man-Month (1975)  [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
+> `Adding manpower to a late software project makes it later.` by Frederick Brooks in the Mythical Man-Month (1975)  [[3](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 ![the mythical man-month](img/mythical_man_month.png)
 
 The modern practices of continuous integration, test-driven development, and iterative development significantly reduce the inter-developer communication overhead, and thus allow for better scalability.
 
-The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. [[2](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
+The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. [[4](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
 Autoware.Auto gives you an example on how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
 
@@ -53,7 +53,7 @@ Autoware.Auto gives you an example on how to create [guidlines for contributing]
 
 > `If one believes, as I have argued at many places in this book, that creativity comes from individuals and not from structures processes, then a central question facing the software manager is how to design structure and process so as to enhance rather than inhibit, creativity and initative.`  by Frederick Brooks in the Mythical Man-Month in 1995
 
-There has been a traditional belief in most businesses about the decision-making in the organization – the managers tell the workers how to do their own job. In a "Work-Out technique", the roles are turned – the managers are taught how to listen to the developers, so they can explain better what actions might be taken, as well as provide suggestions for improvements. The lean approach follows the Agile Principle[7] "build projects around motivated individuals [...] and trust them to get the job done"[8], encouraging progress, catching errors, and removing impediments, but not micro-managing. [[Lean software development](https://en.wikipedia.org/wiki/Lean_software_development#Empower_the_team)
+There has been a traditional belief in most businesses about the decision-making in the organization – the managers tell the workers how to do their own job. In a "Work-Out technique", the roles are turned – the managers are taught how to listen to the developers, so they can explain better what actions might be taken, as well as provide suggestions for improvements. The lean approach follows the Agile Principle "build projects around motivated individuals [...] and trust them to get the job done", encouraging progress, catching errors, and removing impediments, but not micro-managing. [[5](https://en.wikipedia.org/wiki/Lean_software_development#Empower_the_team)]
 
 ### Unix Philosophy - About Slicing Complexity
 
@@ -68,7 +68,7 @@ The Unix philosophy favors composability as opposed to monolithic design:
 
 ### Reinventing The Wheel - About Progress
 
-ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007) [[4](https://www.theconstructsim.com/history-ros/)]
+ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007) [[6](https://www.theconstructsim.com/history-ros/)]
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
@@ -81,34 +81,34 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 > `Safety culture is a culture where employees can tell the boss bad news.` - Sidney Dekker
 
 The term ‘safety culture’ was first used in the Report on the chernobyl disaster and was described as:
-> `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.`  [[5](https://en.wikipedia.org/wiki/Safety_culture)]
+> `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.`  [[7](https://en.wikipedia.org/wiki/Safety_culture)]
 ## Methods and Processes 
 
 ### System Engineering and the V-Model 
 
-Systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an engineered system, can be defined as a combination of components that work in synergy to collectively perform a useful function.[[6](https://en.wikipedia.org/wiki/Systems_engineering)]
+Systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an engineered system, can be defined as a combination of components that work in synergy to collectively perform a useful function.[[8](https://en.wikipedia.org/wiki/Systems_engineering)]
 
-The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[7](https://en.wikipedia.org/wiki/V-Model)]
+The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[9](https://en.wikipedia.org/wiki/V-Model)]
 
 The V models ensures two major aspacts of your development with traceability:
 * Are you building it right? **Validation:** The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders. It often involves acceptance and suitability with external customers. Contrast with verification.
 
 * Are you building the right thing? **Verification:**  The evaluation of whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition. It is often an internal process. Contrast with validation.
 
-<img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">  [[7a](https://upload.wikimedia.org/wikipedia/commons/9/9b/Systems_Engineering_V_diagram.jpg)]   
+<img src="img/Systems_Engineering_V_diagram.jpg" height="50%" width="50%">  [[10](https://upload.wikimedia.org/wikipedia/commons/9/9b/Systems_Engineering_V_diagram.jpg)]   
 
 
 ### Model Based Design or Model-based Systems Engineering
 
 Model-based design provides an efficient approach for establishing a common framework for communication throughout the design process while supporting the development cycle (V-model).
 
-The model-based design is significantly different from traditional design methodology. Rather than using complex structures and extensive software code, designers can use Model-based design to define plant models with advanced functional characteristics using continuous-time and discrete-time building blocks. These built models used with simulation tools can lead to rapid prototyping, software testing, and verification.[[8](https://en.wikipedia.org/wiki/Model-based_design)]
+The model-based design is significantly different from traditional design methodology. Rather than using complex structures and extensive software code, designers can use Model-based design to define plant models with advanced functional characteristics using continuous-time and discrete-time building blocks. These built models used with simulation tools can lead to rapid prototyping, software testing, and verification.[[11](https://en.wikipedia.org/wiki/Model-based_design)]
 
-Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommen to use in complex robotic development. Some reasons for that can be found here: [[9](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
+Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommen to use in complex robotic development. Some reasons for that can be found here: [[12](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
 
 ### SCRUM and the Agile Manifesto
 
-SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[10](https://agilemanifesto.org/principles.html)]:
+SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[13](https://agilemanifesto.org/principles.html)]:
 
 > Individuals and interactions over processes and tools                          
 > Working software over comprehensive documentation                              
@@ -129,7 +129,7 @@ Scrum is a lightweight, iterative and incremental framework for managing complex
 
 A key principle of Scrum is the dual recognition that customers will change their minds about what they want or need (often called requirements volatility) and that there will be unpredictable challenges—for which a predictive or planned approach is not suited.
 
-As such, Scrum adopts an evidence-based empirical approach – accepting that the problem cannot be fully understood or defined up front, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions. [[13](https://en.wikipedia.org/wiki/Scrum_(software_development)#Key_ideas)]
+As such, Scrum adopts an evidence-based empirical approach – accepting that the problem cannot be fully understood or defined up front, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions. [[14](https://en.wikipedia.org/wiki/Scrum_(software_development)#Key_ideas)]
 
 Read the [official Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) by the creators Ken Schwaber and Jeff Sutherland to get a better understanding of the process elements shown in this image:
 
