@@ -68,6 +68,11 @@ The Unix philosophy favors composability as opposed to monolithic design:
 ### Reinventing The Wheel - About Technology Progress
 
 ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007) [[6](https://www.theconstructsim.com/history-ros/)]
+ROS provides multiple lists and an official index about all packages provided by the community: 
+
+* ROS1 and ROS2 [Index](https://index.ros.org/packages/)
+* Awesome ROS2 [List](https://github.com/fkromer/awesome-ros2)
+* Awesome Robotic Tooling [List](https://github.com/Ly0n/awesome-robotic-tooling)
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
