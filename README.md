@@ -76,7 +76,7 @@ ROS provides multiple lists and an official index about all packages provided by
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
-### Software Invention - About Knowledge Applied by People
+### Software Innovation - About Knowledge Applied by People
 
 To not reinvent the wheel you need to know about the wheel. Knowledge management is a major aspacts in software development and engineering in general. It is crucial to keep in mind that most problems you get involved with have already occurred somewhere else on this planet. The ROS community delivers a treasure of solved robotic problems. A major part of robotic development is gathering the right information and knowledge and sharing it with your team.
 
