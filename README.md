@@ -9,7 +9,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [Brook's law - About the Overhead of Communication](#Brooks-law---About-the-Overhead-of-Communication)
    * [The Power of Giving up Power - About Delegation](#The-Power-of-Giving-up-Power---About-Delegation)
    * [Unix Philosophy - About Slicing Complexity](#Unix-Philosophy---About-Slicing-Complexity)
-   * [Reinventing the Wheel - About Progress](#reinventing-the-wheel---About-Progress)
+   * [Reinventing the Wheel - About Progress](#reinventing-the-wheel---About-Technology-Progress)
    * [Software is Knowledge](#software-is-knowledge)
    * [Safety and Security Culture](#safety-and-security-culture)
  * [Methods and Processes](#methods-and-processes)
@@ -66,13 +66,13 @@ The Unix philosophy favors composability as opposed to monolithic design:
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 * Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.                         
 
-### Reinventing The Wheel - About Progress
+### Reinventing The Wheel - About Technology Progress
 
 ROS allows you to stop reinventing the wheel. Reinventing the wheel is one of the main preventer for new innovative applications. The ROS goal is to provide a standard for robotics software development, that you can use on any robot. (2007) [[6](https://www.theconstructsim.com/history-ros/)]
 
 <img src="img/reinvent_the_wheel.jpg" height="50%" width="50%" >
 
-### Software is Knowledge
+### Software Invention - About Knowledge Applied by People
 
 To not reinvent the wheel you need to know about the wheel. Knowledge management is a major aspacts in software development and engineering in general. It is crucial to keep in mind that most problems you get involved with have already occurred somewhere else on this planet. The ROS community delivers a treasure of solved robotic problems. A major part of robotic development is gathering the right information and knowledge and sharing it with your team.
 
