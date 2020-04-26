@@ -33,9 +33,8 @@ No process, mindset and method will fit exactly to your unique working enviromen
 
 >  `Simon Sinek says people are inspired by a sense of purpose (or "Why"), and that this should come first when communicating, before "How" and "What". Sinek calls this triad the golden circle, a diagram of a bullseye with "Why" in the innermost circle (representing people's motives or purposes), surrounded by a ring labeled "How" (representing people's processes or methods), enclosed in a ring labeled "What" (representing results or outcomes).` [[2](https://en.wikipedia.org/wiki/Start_With_Why)]
 
-
+Simon Sinek hold a [inspiring talk](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) about the golden circle at TED.
 <img src="img/Golden_circle.png" height="25%" width="25%" >
-
 
 ### Brook's law - About the Overhead of Communication
 
