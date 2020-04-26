@@ -4,7 +4,7 @@ A summery of development concepts in knowledge intense domains like robotics. Th
 No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rulesets.
 
 * [Mindsets and Experiences](#mindsets-and-experiences)
-   * [Conway's law - About the importance of Communication](#Conways-law-About-the-importance-of-Communication)
+   * [Conway's law - About the importance of Communication](#Conways-law---About-the-importance-of-Communication)
    * [The Golden Circle - About Intrinsic Motivation by Communication](#The-Golden-Circle-About-Intrinsic-Motivation-by-Communication)
    * [Brook's law - About the Overhead of Communication](#Brooks-law-About-the-Overhead-of-Communication)
    * [The Power of Giving up Power - About Delegation](#The-Power-of-Giving-up-Power-About-Delegation)
