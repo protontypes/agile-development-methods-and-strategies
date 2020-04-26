@@ -89,6 +89,11 @@ The term ‘safety culture’ was first used in the Report on the chernobyl disa
 
 Parkopedia released there [Safety Documents](https://avp-project.uk/publication-of-safety-documents) for the Autononmous Valid Parking Use-Cases that will also be [applied by Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206). 
 
+Multiple desaster were caused by a lack of trust created by closed technology and science including:
+
+ * Diesel Scandal
+ * Teflon Scandal
+
 ## Methods and Processes 
 
 ### System Engineering and the V-Model 
