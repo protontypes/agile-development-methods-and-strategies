@@ -10,7 +10,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [The Power of Giving up Power - About Delegation](#The-Power-of-Giving-up-Power---About-Delegation)
    * [Unix Philosophy - About Slicing Complexity](#Unix-Philosophy---About-Slicing-Complexity)
    * [Reinventing The Wheel - About Technology Progress](#reinventing-the-wheel---About-Technology-Progress)
-   * [Software Invention - About Communication with a community](#software-is-knowledge)
+   * [Software Invention - About Communication with a Community](#software-is-knowledge)
    * [Safety and Security Culture](#safety-and-security-culture)
  * [Methods and Processes](#methods-and-processes)
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
