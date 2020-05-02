@@ -19,6 +19,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [Test-driven development](#Test-driven-development)
    * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)   
    * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)  
+   * [Operational_Design_Domain](#Operational-Design-Domain)
  * [Development Workflow](#development-workflow)
    * [Release and Branching Process](#release-and-branching-process)
    * [Issue Triage](#issue-triage) 
@@ -176,9 +177,11 @@ The [AutowareAuto Continuous Integration](https://gitlab.com/autowarefoundation/
 
 ### The W-Model and Lean Scaled Agility for Engineering
 
-
 https://assets.vector.com/cms/content/consulting/publications/Agile_Requirements_Engineering.pdf
 https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf
+
+### Operational Design Domain
+https://www.researchgate.net/publication/326543176_Operational_Design_Domain_for_Automated_Driving_Systems_-_Taxonomy_of_Basic_Terms
 
 ## Development Workflow
 ### Issue Triage    
