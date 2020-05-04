@@ -19,7 +19,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [Test-driven development](#Test-driven-development)
    * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)   
    * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)  
-   * [Operational_Design_Domain](#Operational-Design-Domain)
+   * [Operational Design Domain](#Operational-Design-Domain)
  * [Development Workflow](#development-workflow)
    * [Release and Branching Process](#release-and-branching-process)
    * [Issue Triage](#issue-triage) 
