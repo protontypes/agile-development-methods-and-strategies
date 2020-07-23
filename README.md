@@ -88,12 +88,10 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 The term ‘safety culture’ was first used in the Report on the chernobyl disaster and was described as:
 > `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.`  [[7](https://en.wikipedia.org/wiki/Safety_culture)]
 
-Parkopedia released there [Safety Documents](https://avp-project.uk/publication-of-safety-documents) for the Autononmous Valid Parking Use-Cases that will also be [applied by Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/issues/206). 
+Multiple desaster were caused by a lack of safety culture, closed technology and closed science including:
 
-Multiple desaster were caused by a lack of trust created by closed technology and science including:
-
- * Diesel Scandal
- * Teflon Scandal
+ * [Diesel_emissions_scandal](https://en.wikipedia.org/wiki/Diesel_emissions_scandal)
+ * [Teflon Scandal](https://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html)
 
 ## Methods and Processes 
 
