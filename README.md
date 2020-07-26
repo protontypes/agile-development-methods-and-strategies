@@ -20,6 +20,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)   
    * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)  
    * [Operational Design Domain](#Operational-Design-Domain)
+   * [Separation of Concerns]
  * [Development Workflow](#development-workflow)
    * [Release and Branching Process](#release-and-branching-process)
    * [Issue Triage](#issue-triage) 
@@ -170,8 +171,6 @@ The tests are created out of the requirements and user stories. This aligns with
 DevOps is a set of methods, practices and mindsets which aims to shorten the systems development life cycle and provide continuous delivery with high software quality. This is done by the automation of software development phases of the V-Model.
 
 <img src="img/Devops-toolchain.svg" height="50%" width="50%">       
-
-The [AutowareAuto Continuous Integration](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/blob/master/.gitlab-ci.yml) templates shows how use automated integrating and testing processes on a complete software stack.
 
 ### The W-Model and Lean Scaled Agility for Engineering
 
