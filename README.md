@@ -175,18 +175,29 @@ The [AutowareAuto Continuous Integration](https://gitlab.com/autowarefoundation/
 
 ### The W-Model and Lean Scaled Agility for Engineering
 
-https://assets.vector.com/cms/content/consulting/publications/Agile_Requirements_Engineering.pdf
-https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf
+> Agile usability engineering is a method created from a combination of agile software development and usability engineering practices. Agile usability engineering attempts to apply the principles of rapid and iterative development to the field of user interface design. [[1]](https://en.wikipedia.org/wiki/Agile_usability_engineering)
 
-### Operational Design Domain
-https://www.researchgate.net/publication/326543176_Operational_Design_Domain_for_Automated_Driving_Systems_-_Taxonomy_of_Basic_Terms
+### Operational Design Domai]]
+Operational Design Domain
+
+J3016 defines an Operational Design Domain (ODD) as “operating conditions under which a given driving automation system or feature thereof is specifically designed to function, including, but not limited to, environmental, geographical, and time-of-day restrictions, and/or the requisite presence or absence of certain traffic or roadway characteristics.” (LA)(3.22) ODD
+
+An ODD may put limitations on
+
+the road environment
+the behavior of the equipped subject vehicle
+the state of the vehicle. [1] https://www.researchgate.net/publication/326543176_Operational_Design_Domain_for_Automated_Driving_Systems_-_Taxonomy_of_Basic_Terms
+
+### Separation of Concerns
+Is a design principle for separating a computer program into distinct sections such that each section addresses a separate concern. [1]](https://en.wikipedia.org/wiki/Separation_of_concerns) [[2]](https://aisberg.unibg.it/retrieve/handle/10446/87662/159426/78-379-1-PB.pdf)
 
 ## Development Workflow
-### Issue Triage    
-https://about.gitlab.com/handbook/engineering/quality/issue-triage/
+### Issue Triage 
+> The process of categorization according to type and severity.
+[[1]](https://about.gitlab.com/handbook/engineering/quality/issue-triage/)
 
 ### Release and Branching Process   
 One of the first processes showing how to work together with mutliple people on one project was [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/). 
 
-This process has been adapted and modified in many ways over the last years. The [AutowareAuto Branching Model](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/develop-in-a-fork.html) shows you how integrate your development with the work of multiple other developers.
+
 
