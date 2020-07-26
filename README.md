@@ -177,8 +177,7 @@ The [AutowareAuto Continuous Integration](https://gitlab.com/autowarefoundation/
 
 > Agile usability engineering is a method created from a combination of agile software development and usability engineering practices. Agile usability engineering attempts to apply the principles of rapid and iterative development to the field of user interface design. [[1]](https://en.wikipedia.org/wiki/Agile_usability_engineering)
 
-### Operational Design Domai]]
-Operational Design Domain
+### Operational Design Domain
 
 J3016 defines an Operational Design Domain (ODD) as “operating conditions under which a given driving automation system or feature thereof is specifically designed to function, including, but not limited to, environmental, geographical, and time-of-day restrictions, and/or the requisite presence or absence of certain traffic or roadway characteristics.” (LA)(3.22) ODD
 
@@ -186,10 +185,10 @@ An ODD may put limitations on
 
 the road environment
 the behavior of the equipped subject vehicle
-the state of the vehicle. [1] https://www.researchgate.net/publication/326543176_Operational_Design_Domain_for_Automated_Driving_Systems_-_Taxonomy_of_Basic_Terms
+the state of the vehicle. [[1]](https://www.researchgate.net/publication/326543176_Operational_Design_Domain_for_Automated_Driving_Systems_-_Taxonomy_of_Basic_Terms
 
 ### Separation of Concerns
-Is a design principle for separating a computer program into distinct sections such that each section addresses a separate concern. [1]](https://en.wikipedia.org/wiki/Separation_of_concerns) [[2]](https://aisberg.unibg.it/retrieve/handle/10446/87662/159426/78-379-1-PB.pdf)
+Is a design principle for separating a computer program into distinct sections such that each section addresses a separate concern. [[1]](https://en.wikipedia.org/wiki/Separation_of_concerns) [[2]](https://aisberg.unibg.it/retrieve/handle/10446/87662/159426/78-379-1-PB.pdf)
 
 ## Development Workflow
 ### Issue Triage 
