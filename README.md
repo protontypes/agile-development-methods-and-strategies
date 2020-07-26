@@ -20,7 +20,7 @@ No process, mindset and method will fit exactly to your unique working enviromen
    * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)   
    * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)  
    * [Operational Design Domain](#Operational-Design-Domain)
-   * [Separation of Concerns](#Separation of Concerns)
+   * [Separation of Concerns](#separation-of-concerns)
  * [Development Workflow](#development-workflow)
    * [Release and Branching Process](#release-and-branching-process)
    * [Issue Triage](#issue-triage) 
