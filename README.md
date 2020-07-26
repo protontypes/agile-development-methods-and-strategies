@@ -185,7 +185,7 @@ An ODD may put limitations on
 
 the road environment
 the behavior of the equipped subject vehicle
-the state of the vehicle. [[1]](https://www.researchgate.net/publication/326543176_Operational_Design_Domain_for_Automated_Driving_Systems_-_Taxonomy_of_Basic_Terms
+the state of the vehicle. [[1]](https://www.researchgate.net/publication/326543176_Operational_Design_Domain_for_Automated_Driving_Systems_-_Taxonomy_of_Basic_Terms)
 
 ### Separation of Concerns
 Is a design principle for separating a computer program into distinct sections such that each section addresses a separate concern. [[1]](https://en.wikipedia.org/wiki/Separation_of_concerns) [[2]](https://aisberg.unibg.it/retrieve/handle/10446/87662/159426/78-379-1-PB.pdf)
