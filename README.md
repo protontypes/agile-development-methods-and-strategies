@@ -16,7 +16,7 @@ No process, mindset and method will fit exactly to your unique working environme
    * [System Engineering and the V-Model](#system-engineering-and-the-v-model)
    * [SCRUM and Agile Development](#SCRUM-and-Agile-Development)
    * [Extreme Programming](#Extreme-Programming)
-   * [Test-driven development](#Test-driven-development)
+   * [Test-Driven Development](#Test-driven-development)
    * [DevOPs and Continuous Integration](#DevOPs-and-Continuous-Integration)   
    * [The W-Model and Lean Scaled Agility for Engineering](#The-W-Model-and-Lean-Scaled-Agility-for-Engineering)  
    * [Operational Design Domain](#Operational-Design-Domain)
@@ -161,7 +161,7 @@ XP knows two forms of user stories aligning with the V-Model validation and veri
 
 [[10](https://en.wikipedia.org/wiki/Extreme_programming)]
 
-### Test-driven development
+### Test-Driven Development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
 
 The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[11](https://en.wikipedia.org/wiki/Test-driven_development)]
