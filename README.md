@@ -1,7 +1,7 @@
 # Agile Development Methods and Strategies
 A summery of development concepts in knowledge intense domains like robotics. The document intention is to give a entry point for professional robotic development processes, mindsets and methods. 
 
-No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rulesets.
+No process, mindset and method will fit exactly to your unique working environment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rule sets.
 
 * [Mindsets and Experiences](#mindsets-and-experiences)
    * [Conway's law - About the Importance of Communication](#Conways-law---About-the-importance-of-Communication)
@@ -58,14 +58,14 @@ There has been a traditional belief in most businesses about the decision-making
 
 ### Unix Philosophy - About Slicing Complexity
 
-Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
+Concepts of modularity and re-usability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
 
 
 The Unix philosophy favors composability as opposed to monolithic design:
 * Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new "features".
 * Expect the output of every program to become the input to another, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input.
 * Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
-* Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.                         
+* Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you've finished using them.                    
 
 ### Reinventing The Wheel - About Technology Progress
 
@@ -80,7 +80,7 @@ ROS provides multiple lists and an official index about all packages provided by
 
 ### Software Innovation - About Knowledge Applied by People
 
-To not reinvent the wheel you need to know about the wheel. Knowledge management is a major aspacts in software development and engineering in general. It is crucial to keep in mind that most problems you get involved with have already occurred somewhere else on this planet. The ROS community delivers a treasure of solved robotic problems. A major part of robotic development is gathering the right information and knowledge and sharing it with your team.
+To not reinvent the wheel you need to know about the wheel. Knowledge management is a major aspect in software development and engineering in general. It is crucial to keep in mind that most problems you get involved with have already occurred somewhere else on this planet. The ROS community delivers a treasure of solved robotic problems. A major part of robotic development is gathering the right information and knowledge and sharing it with your team.
 
 ### Safety and Security Culture
 
@@ -89,7 +89,7 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 The term ‘safety culture’ was first used in the Report on the chernobyl disaster and was described as:
 > `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.`  [[7](https://en.wikipedia.org/wiki/Safety_culture)]
 
-Multiple desaster were caused by a lack of safety culture, closed technology and closed science including:
+Multiple disasters were caused by a lack of safety culture, closed technology and closed science including:
 
  * [Diesel_emissions_scandal](https://en.wikipedia.org/wiki/Diesel_emissions_scandal)
  * [Teflon Scandal](https://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html)
@@ -102,7 +102,7 @@ Systems engineering utilizes systems thinking principles to organize this body o
 
 The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[9](https://en.wikipedia.org/wiki/V-Model)]
 
-The V models ensures two major aspacts of your development with traceability:
+The V models ensures two major aspects of your development with traceability:
 * Are you building it right? **Validation:** The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders. It often involves acceptance and suitability with external customers. Contrast with verification.
 
 * Are you building the right thing? **Verification:**  The evaluation of whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition. It is often an internal process. Contrast with validation.
@@ -116,7 +116,7 @@ Model-based design provides an efficient approach for establishing a common fram
 
 The model-based design is significantly different from traditional design methodology. Rather than using complex structures and extensive software code, designers can use Model-based design to define plant models with advanced functional characteristics using continuous-time and discrete-time building blocks. These built models used with simulation tools can lead to rapid prototyping, software testing, and verification.[[11](https://en.wikipedia.org/wiki/Model-based_design)]
 
-Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommen to use in complex robotic development. Some reasons for that can be found here: [[12](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
+Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommon to use it in complex robotic development. Some reasons for that can be found here: [[12](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
 
 ### SCRUM and the Agile Manifesto
 
@@ -163,6 +163,7 @@ XP knows two forms of user stories aligning with the V-Model validation and veri
 
 ### Test-driven development
 In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
+
 The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[11](https://en.wikipedia.org/wiki/Test-driven_development)]
 
 <img src="img/tdd_circle_of_life.svg" height="50%" width="50%">   
@@ -195,7 +196,7 @@ Is a design principle for separating a computer program into distinct sections s
 [[1]](https://about.gitlab.com/handbook/engineering/quality/issue-triage/)
 
 ### Release and Branching Process   
-One of the first processes showing how to work together with mutliple people on one project was [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/). 
+One of the first processes showing how to work together with multiple people on one project was [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/). 
 
 
 
