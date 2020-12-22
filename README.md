@@ -1,4 +1,4 @@
-# Agile Concepts of Robot Development
+# Agile Development Methods and Strategies
 A summery of development concepts in knowledge intense domains like robotics. The document intention is to give a entry point for professional robotic development processes, mindsets and methods. 
 
 No process, mindset and method will fit exactly to your unique working enviroment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rulesets.
