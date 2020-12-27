@@ -1,5 +1,5 @@
 # Agile Development Methods and Strategies
-A summary of development concepts and strategies in knowledge intense domains like robotics. The document's intention is to give an entry point for professional robotic development processes, mindsets and methods. 
+A summary of agile development concepts and strategies in knowledge intense domains like robotics. The document's intention is to give an entry point for professional robotic development processes, mindsets and methods. 
 
 No process, mindset and method will fit exactly to your unique working environment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rule sets.
 
