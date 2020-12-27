@@ -1,5 +1,5 @@
 # Agile Development Methods and Strategies
-A summery of development concepts and strategies in knowledge intense domains like robotics. The document intention is to give a entry point for professional robotic development processes, mindsets and methods. 
+A summary of development concepts and strategies in knowledge intense domains like robotics. The document's intention is to give an entry point for professional robotic development processes, mindsets and methods. 
 
 No process, mindset and method will fit exactly to your unique working environment and team without a common adaption. The following content shall be used as experiences to learn from and not as strict rule sets.
 
@@ -48,17 +48,17 @@ The modern practices of continuous integration, test-driven development, and ite
 
 The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability. Finally, good segmentation helps by minimizing the communication overhead between team members. [[4](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)]
 
-Autoware.Auto gives you an example on how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
+Autoware.Auto gives you an example how to create [guidlines for contributing](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/cpp-development-process.html).
 
 ### The Power of Giving up Power - About Delegation
 
-> `If one believes, as I have argued at many places in this book, that creativity comes from individuals and not from structures processes, then a central question facing the software manager is how to design structure and process so as to enhance rather than inhibit, creativity and initative.`  by Frederick Brooks in the Mythical Man-Month in 1995
+> `If one believes, as I have argued at many places in this book, that creativity comes from individuals and not from structures processes, then a central question facing the software manager is how to design structure and process so as to enhance rather than inhibit, creativity and initiative.`  by Frederick Brooks in the Mythical Man-Month in 1995
 
 There has been a traditional belief in most businesses about the decision-making in the organization – the managers tell the workers how to do their own job. In a "Work-Out technique", the roles are turned – the managers are taught how to listen to the developers, so they can explain better what actions might be taken, as well as provide suggestions for improvements. The lean approach follows the Agile Principle "build projects around motivated individuals [...] and trust them to get the job done", encouraging progress, catching errors, and removing impediments, but not micro-managing. [[5](https://en.wikipedia.org/wiki/Lean_software_development#Empower_the_team)]
 
 ### Unix Philosophy - About Slicing Complexity
 
-Concepts of modularity and re-usability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
+Concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. (1978) [[3](https://en.wikipedia.org/wiki/Unix_philosophy)] 
 
 
 The Unix philosophy favors composability as opposed to monolithic design:
@@ -86,7 +86,7 @@ To not reinvent the wheel you need to know about the wheel. Knowledge management
 
 > `Safety culture is a culture where employees can tell the boss bad news.` - Sidney Dekker
 
-The term ‘safety culture’ was first used in the Report on the chernobyl disaster and was described as:
+The term ‘safety culture’ was first used in the Report on the Chernobyl disaster and was described as:
 > `That assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear plant safety issues receive the attention warranted by their significance.`  [[7](https://en.wikipedia.org/wiki/Safety_culture)]
 
 Multiple disasters were caused by a lack of safety culture, closed technology and closed science including:
@@ -100,9 +100,9 @@ Multiple disasters were caused by a lack of safety culture, closed technology an
 
 Systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an engineered system, can be defined as a combination of components that work in synergy to collectively perform a useful function.[[8](https://en.wikipedia.org/wiki/Systems_engineering)]
 
-The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within computerized system validation framework, or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[9](https://en.wikipedia.org/wiki/V-Model)]
+The V-model summarizes the main steps to be taken in conjunction with the corresponding deliverables within a computerized system validation framework or project life cycle development. It describes the activities to be performed and the results that have to be produced during product development. [[9](https://en.wikipedia.org/wiki/V-Model)]
 
-The V models ensures two major aspects of your development with traceability:
+The V models ensure two major aspects of your development with traceability:
 * Are you building it right? **Validation:** The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders. It often involves acceptance and suitability with external customers. Contrast with verification.
 
 * Are you building the right thing? **Verification:**  The evaluation of whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition. It is often an internal process. Contrast with validation.
@@ -112,15 +112,15 @@ The V models ensures two major aspects of your development with traceability:
 
 ### Model Based Design or Model-based Systems Engineering
 
-Model-based design provides an efficient approach for establishing a common framework for communication throughout the design process while supporting the development cycle (V-model).
+The model-based design provides an efficient approach for establishing a common framework for communication throughout the design process while supporting the development cycle (V-model).
 
-The model-based design is significantly different from traditional design methodology. Rather than using complex structures and extensive software code, designers can use Model-based design to define plant models with advanced functional characteristics using continuous-time and discrete-time building blocks. These built models used with simulation tools can lead to rapid prototyping, software testing, and verification.[[11](https://en.wikipedia.org/wiki/Model-based_design)]
+The model-based design is significantly different from the traditional design methodology. Rather than using complex structures and extensive software code, designers can use Model-based design to define plant models with advanced functional characteristics using continuous-time and discrete-time building blocks. These built models used with simulation tools can lead to rapid prototyping, software testing, and verification.[[11](https://en.wikipedia.org/wiki/Model-based_design)]
 
-Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety related product today it is uncommon to use it in complex robotic development. Some reasons for that can be found here: [[12](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
+Even if model-based systems engineering it is used for state-of-the-art engineering for multiple safety-related product today it is uncommon to use it in complex robotic development. Some reasons for that can be found here: [[12](https://en.wikipedia.org/wiki/Model-based_design#Disadvantages_of_MBD)]
 
 ### SCRUM and the Agile Manifesto
 
-SCRUM is a agile method for project management. It consists out of a process and and a mindset based on the Agile Manifesto [[13](https://agilemanifesto.org/principles.html)]:
+SCRUM is an agile method for project management. It consists of a process and a mindset based on the Agile Manifesto [[13](https://agilemanifesto.org/principles.html)]:
 
 > Individuals and interactions over processes and tools                          
 > Working software over comprehensive documentation                              
@@ -141,7 +141,7 @@ Scrum is a lightweight, iterative and incremental framework for managing complex
 
 A key principle of Scrum is the dual recognition that customers will change their minds about what they want or need (often called requirements volatility) and that there will be unpredictable challenges—for which a predictive or planned approach is not suited.
 
-As such, Scrum adopts an evidence-based empirical approach – accepting that the problem cannot be fully understood or defined up front, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions. [[14](https://en.wikipedia.org/wiki/Scrum_(software_development)#Key_ideas)]
+As such, Scrum adopts an evidence-based empirical approach – accepting that the problem cannot be fully understood or defined upfront, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions. [[14](https://en.wikipedia.org/wiki/Scrum_(software_development)#Key_ideas)]
 
 Read the [official Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) by the creators Ken Schwaber and Jeff Sutherland to get a better understanding of the process elements shown in this image:
 
@@ -151,7 +151,7 @@ Read the [official Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v201
 
 Extreme Programming (XP) describes four basic activities that are performed within the software development process: coding, testing, listening, and designing.
 
-XP takes this concept to the extreme level, writing automated tests (sometimes inside software modules) which validate the operation of even small sections of software coding, rather than only testing the larger features.
+XP takes this concept to the extreme level, writing automated tests (sometimes inside software modules) that validate the operation of even small sections of software coding, rather than only testing the larger features.
 
 XP knows two forms of user stories aligning with the V-Model validation and verification.
   * Validation: Unit tests determine whether a given feature works as intended. Programmers write as many automated tests as they can think of that might "break" the code; if all tests run successfully, then the coding is complete. Every piece of code that is written is tested before moving on to the next feature.
@@ -162,7 +162,7 @@ XP knows two forms of user stories aligning with the V-Model validation and veri
 [[10](https://en.wikipedia.org/wiki/Extreme_programming)]
 
 ### Test-Driven Development
-In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
+In Test-Driven Development (TDD), each new feature begins with writing a test. When developing a product-ready function with high quality, availability and reliability creating the tests can even be more complex than the actual function.
 
 The tests are created out of the requirements and user stories. This aligns with V-Model first steps. [[11](https://en.wikipedia.org/wiki/Test-driven_development)]
 
